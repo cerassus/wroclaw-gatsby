@@ -1,0 +1,3104 @@
+[
+   {
+      "2010": [
+         {
+            "name": "Tarnogaj",
+            "count": "1499"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "13864"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "13278"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "31"
+         },
+         {
+            "name": "Gajowice",
+            "count": "19338"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "7609"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1509"
+         },
+         {
+            "name": "Borek",
+            "count": "13494"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2628"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2441"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "10661"
+         },
+         {
+            "name": "Krzyki",
+            "count": "10314"
+         },
+         {
+            "name": "Partynice",
+            "count": "2111"
+         },
+         {
+            "name": "Popowice",
+            "count": "11860"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7513"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8741"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "17728"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "6183"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "19196"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "16935"
+         },
+         {
+            "name": "Karłowice",
+            "count": "13918"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4438"
+         },
+         {
+            "name": "Poświętne",
+            "count": "2971"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "2826"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "10868"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "22600"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "16108"
+         },
+         {
+            "name": "Szczepin",
+            "count": "22386"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "50640"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "30637"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6466"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1949"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1390"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "669"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1020"
+         },
+         {
+            "name": "Sępolno",
+            "count": "8428"
+         },
+         {
+            "name": "Biskupin",
+            "count": "12391"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "315"
+         },
+         {
+            "name": "Huby",
+            "count": "21870"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "3857"
+         },
+         {
+            "name": "Gaj",
+            "count": "19827"
+         },
+         {
+            "name": "Jagodno",
+            "count": "2258"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "3654"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "8319"
+         },
+         {
+            "name": "Klecina",
+            "count": "5337"
+         },
+         {
+            "name": "Oporów",
+            "count": "6418"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "8803"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3451"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "731"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "5136"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "1982"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1216"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "8990"
+         },
+         {
+            "name": "Złotniki",
+            "count": "4703"
+         },
+         {
+            "name": "Kozanów",
+            "count": "17553"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5853"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2169"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2183"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "503"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4412"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8487"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2427"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "775"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5221"
+         },
+         {
+            "name": "Brochów",
+            "count": "6575"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1252"
+         },
+         {
+            "name": "Żar",
+            "count": "191"
+         },
+         {
+            "name": "Mokra",
+            "count": "415"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "8962"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "688"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5047"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "11426"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "2480"
+         },
+         {
+            "name": "Świniary",
+            "count": "788"
+         },
+         {
+            "name": "Rędzin",
+            "count": "307"
+         },
+         {
+            "name": "Marszowice",
+            "count": "894"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "730"
+         }
+      ],
+      "2011": [
+         {
+            "name": "Stare Miasto",
+            "count": "10576"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "22507"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "15934"
+         },
+         {
+            "name": "Szczepin",
+            "count": "22108"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "49770"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "30188"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6371"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1914"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "16794"
+         },
+         {
+            "name": "Karłowice",
+            "count": "13741"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4437"
+         },
+         {
+            "name": "Poświętne",
+            "count": "2942"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "2873"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1383"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "651"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1042"
+         },
+         {
+            "name": "Sępolno",
+            "count": "8339"
+         },
+         {
+            "name": "Biskupin",
+            "count": "12256"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "308"
+         },
+         {
+            "name": "Huby",
+            "count": "21533"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "3955"
+         },
+         {
+            "name": "Gaj",
+            "count": "19847"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "1501"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "13619"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "13100"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "29"
+         },
+         {
+            "name": "Gajowice",
+            "count": "19189"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "7526"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1514"
+         },
+         {
+            "name": "Borek",
+            "count": "13269"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2662"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2443"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "10767"
+         },
+         {
+            "name": "Krzyki",
+            "count": "10636"
+         },
+         {
+            "name": "Partynice",
+            "count": "2121"
+         },
+         {
+            "name": "Popowice",
+            "count": "11734"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7436"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8699"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "17546"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "6140"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "19106"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "5201"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "2195"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "775"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5374"
+         },
+         {
+            "name": "Brochów",
+            "count": "6738"
+         },
+         {
+            "name": "Oporów",
+            "count": "6461"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "9253"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3599"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "737"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1175"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "9345"
+         },
+         {
+            "name": "Złotniki",
+            "count": "4784"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8489"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2450"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "9235"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "688"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5074"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "11638"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2228"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "488"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4487"
+         },
+         {
+            "name": "Kozanów",
+            "count": "17293"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5805"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2314"
+         },
+         {
+            "name": "Klecina",
+            "count": "5409"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "2534"
+         },
+         {
+            "name": "Świniary",
+            "count": "776"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1259"
+         },
+         {
+            "name": "Żar",
+            "count": "190"
+         },
+         {
+            "name": "Rędzin",
+            "count": "308"
+         },
+         {
+            "name": "Jagodno",
+            "count": "2480"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "3800"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "8721"
+         },
+         {
+            "name": "Marszowice",
+            "count": "954"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "743"
+         },
+         {
+            "name": "Mokra",
+            "count": "428"
+         }
+      ],
+      "2012": [
+         {
+            "name": "Grabiszyn",
+            "count": "2412"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "10879"
+         },
+         {
+            "name": "Krzyki",
+            "count": "10872"
+         },
+         {
+            "name": "Partynice",
+            "count": "2121"
+         },
+         {
+            "name": "Popowice",
+            "count": "11612"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7368"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "10246"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "22285"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "15675"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "13359"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "12859"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8617"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "17319"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "6075"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "19043"
+         },
+         {
+            "name": "Kozanów",
+            "count": "17156"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5763"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2406"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "16699"
+         },
+         {
+            "name": "Karłowice",
+            "count": "13550"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4400"
+         },
+         {
+            "name": "Poświętne",
+            "count": "2957"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "2937"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "25"
+         },
+         {
+            "name": "Gajowice",
+            "count": "18897"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "7454"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1495"
+         },
+         {
+            "name": "Borek",
+            "count": "13080"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2679"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "660"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1061"
+         },
+         {
+            "name": "Sępolno",
+            "count": "8243"
+         },
+         {
+            "name": "Biskupin",
+            "count": "12096"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "268"
+         },
+         {
+            "name": "Huby",
+            "count": "21213"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "4105"
+         },
+         {
+            "name": "Gaj",
+            "count": "19890"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "1517"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "9666"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "671"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5114"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "11797"
+         },
+         {
+            "name": "Jagodno",
+            "count": "2709"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "3961"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "9094"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "775"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5535"
+         },
+         {
+            "name": "Brochów",
+            "count": "7097"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2242"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "470"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4586"
+         },
+         {
+            "name": "Klecina",
+            "count": "5465"
+         },
+         {
+            "name": "Oporów",
+            "count": "6449"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "9651"
+         },
+         {
+            "name": "Szczepin",
+            "count": "21747"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "49049"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "29783"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6279"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1915"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1382"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1200"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "9819"
+         },
+         {
+            "name": "Złotniki",
+            "count": "4845"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8593"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2454"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3656"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "734"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "5454"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "2346"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "2561"
+         },
+         {
+            "name": "Świniary",
+            "count": "755"
+         },
+         {
+            "name": "Rędzin",
+            "count": "303"
+         },
+         {
+            "name": "Marszowice",
+            "count": "996"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "738"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1289"
+         },
+         {
+            "name": "Żar",
+            "count": "190"
+         },
+         {
+            "name": "Mokra",
+            "count": "436"
+         }
+      ],
+      "2013": [
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "13149"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "12589"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8574"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "17095"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "6033"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "18937"
+         },
+         {
+            "name": "Kozanów",
+            "count": "16867"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "633"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1099"
+         },
+         {
+            "name": "Sępolno",
+            "count": "8158"
+         },
+         {
+            "name": "Biskupin",
+            "count": "11905"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "261"
+         },
+         {
+            "name": "Huby",
+            "count": "20804"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "4357"
+         },
+         {
+            "name": "Gaj",
+            "count": "19840"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "1650"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5723"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2468"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "16470"
+         },
+         {
+            "name": "Karłowice",
+            "count": "13340"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4399"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2385"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "11078"
+         },
+         {
+            "name": "Krzyki",
+            "count": "11265"
+         },
+         {
+            "name": "Partynice",
+            "count": "2072"
+         },
+         {
+            "name": "Popowice",
+            "count": "11529"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7308"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "9968"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "21973"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "15384"
+         },
+         {
+            "name": "Poświętne",
+            "count": "2949"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "3026"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "27"
+         },
+         {
+            "name": "Gajowice",
+            "count": "18621"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "7366"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1500"
+         },
+         {
+            "name": "Borek",
+            "count": "12887"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2669"
+         },
+         {
+            "name": "Jagodno",
+            "count": "3246"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "4191"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "9620"
+         },
+         {
+            "name": "Klecina",
+            "count": "5543"
+         },
+         {
+            "name": "Oporów",
+            "count": "6490"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "10026"
+         },
+         {
+            "name": "Szczepin",
+            "count": "21411"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "47971"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "29154"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6168"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1906"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1359"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1189"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "10898"
+         },
+         {
+            "name": "Złotniki",
+            "count": "4954"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8529"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2493"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "9976"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "653"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5159"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "11910"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2218"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "495"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4692"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "789"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5599"
+         },
+         {
+            "name": "Brochów",
+            "count": "7273"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "2544"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "2732"
+         },
+         {
+            "name": "Świniary",
+            "count": "748"
+         },
+         {
+            "name": "Rędzin",
+            "count": "315"
+         },
+         {
+            "name": "Marszowice",
+            "count": "1117"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "727"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1308"
+         },
+         {
+            "name": "Żar",
+            "count": "195"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3730"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "719"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "5907"
+         },
+         {
+            "name": "Mokra",
+            "count": "446"
+         }
+      ],
+      "2014": [
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "12884"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "12308"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8474"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "16909"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "6004"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "18940"
+         },
+         {
+            "name": "Kozanów",
+            "count": "16705"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "626"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1138"
+         },
+         {
+            "name": "Sępolno",
+            "count": "8013"
+         },
+         {
+            "name": "Biskupin",
+            "count": "11751"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "250"
+         },
+         {
+            "name": "Huby",
+            "count": "20543"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "4670"
+         },
+         {
+            "name": "Gaj",
+            "count": "19718"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "1804"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5669"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2541"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "16253"
+         },
+         {
+            "name": "Karłowice",
+            "count": "13220"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4440"
+         },
+         {
+            "name": "Poświętne",
+            "count": "2971"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "3243"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "25"
+         },
+         {
+            "name": "Gajowice",
+            "count": "18379"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "7267"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1487"
+         },
+         {
+            "name": "Borek",
+            "count": "12711"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2699"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2341"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "11139"
+         },
+         {
+            "name": "Krzyki",
+            "count": "11662"
+         },
+         {
+            "name": "Partynice",
+            "count": "2050"
+         },
+         {
+            "name": "Popowice",
+            "count": "11463"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7266"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "9704"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "21680"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "14966"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2209"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "608"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4754"
+         },
+         {
+            "name": "Klecina",
+            "count": "5718"
+         },
+         {
+            "name": "Oporów",
+            "count": "6533"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "10467"
+         },
+         {
+            "name": "Szczepin",
+            "count": "21072"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "46990"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "28639"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6143"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1859"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1355"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "784"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5623"
+         },
+         {
+            "name": "Brochów",
+            "count": "7377"
+         },
+         {
+            "name": "Jagodno",
+            "count": "3752"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "4417"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "9938"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1173"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "12080"
+         },
+         {
+            "name": "Złotniki",
+            "count": "5085"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8545"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2512"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "10234"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "639"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5192"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "12070"
+         },
+         {
+            "name": "Żar",
+            "count": "198"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "2894"
+         },
+         {
+            "name": "Świniary",
+            "count": "748"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3753"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "721"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "6175"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "2733"
+         },
+         {
+            "name": "Marszowice",
+            "count": "1188"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "726"
+         },
+         {
+            "name": "Mokra",
+            "count": "451"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1322"
+         },
+         {
+            "name": "Rędzin",
+            "count": "315"
+         }
+      ],
+      "2015": [
+         {
+            "name": "Kuźniki",
+            "count": "5973"
+         },
+         {
+            "name": "Sępolno",
+            "count": "7877"
+         },
+         {
+            "name": "Biskupin",
+            "count": "11556"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "11093"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1440"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "1882"
+         },
+         {
+            "name": "Gaj",
+            "count": "19503"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1171"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "18984"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "45800"
+         },
+         {
+            "name": "Szczepin",
+            "count": "20544"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "745"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5587"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2657"
+         },
+         {
+            "name": "Krzyki",
+            "count": "12174"
+         },
+         {
+            "name": "Rędzin",
+            "count": "309"
+         },
+         {
+            "name": "Świniary",
+            "count": "741"
+         },
+         {
+            "name": "Mokra",
+            "count": "447"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "10483"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "6333"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "620"
+         },
+         {
+            "name": "Marszowice",
+            "count": "1294"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "3083"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5582"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "3483"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8518"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "16066"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1327"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6112"
+         },
+         {
+            "name": "Poświętne",
+            "count": "2928"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5164"
+         },
+         {
+            "name": "Żar",
+            "count": "192"
+         },
+         {
+            "name": "Karłowice",
+            "count": "13080"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "10840"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "21250"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "12834"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "2961"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2611"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "12073"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2214"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4435"
+         },
+         {
+            "name": "Popowice",
+            "count": "11356"
+         },
+         {
+            "name": "Jagodno",
+            "count": "4131"
+         },
+         {
+            "name": "Kozanów",
+            "count": "16386"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "722"
+         },
+         {
+            "name": "Złotniki",
+            "count": "5123"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "27985"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3757"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1834"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1334"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4776"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7201"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "707"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "16713"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8412"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "615"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "9418"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1157"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "797"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "14573"
+         },
+         {
+            "name": "Gajowice",
+            "count": "17971"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2298"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2514"
+         },
+         {
+            "name": "Brochów",
+            "count": "7520"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "12556"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "12004"
+         },
+         {
+            "name": "Huby",
+            "count": "20108"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "4954"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "24"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "242"
+         },
+         {
+            "name": "Oporów",
+            "count": "6566"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "7132"
+         },
+         {
+            "name": "Borek",
+            "count": "12520"
+         },
+         {
+            "name": "Klecina",
+            "count": "5898"
+         },
+         {
+            "name": "Partynice",
+            "count": "2023"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "4620"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "10226"
+         }
+      ],
+      "2016": [
+         {
+            "name": "Zakrzów",
+            "count": "10684"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "6467"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "603"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "19058"
+         },
+         {
+            "name": "Kozanów",
+            "count": "16148"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "708"
+         },
+         {
+            "name": "Złotniki",
+            "count": "5196"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "27573"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3808"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1816"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "5912"
+         },
+         {
+            "name": "Sępolno",
+            "count": "7813"
+         },
+         {
+            "name": "Biskupin",
+            "count": "11422"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "11177"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1425"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "1964"
+         },
+         {
+            "name": "Gaj",
+            "count": "19403"
+         },
+         {
+            "name": "Marszowice",
+            "count": "1392"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "3483"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5635"
+         },
+         {
+            "name": "Rędzin",
+            "count": "310"
+         },
+         {
+            "name": "Świniary",
+            "count": "730"
+         },
+         {
+            "name": "Mokra",
+            "count": "440"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5244"
+         },
+         {
+            "name": "Żar",
+            "count": "196"
+         },
+         {
+            "name": "Karłowice",
+            "count": "12905"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "11329"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "20993"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "13523"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "3263"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2652"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "12056"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1343"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6142"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "45007"
+         },
+         {
+            "name": "Szczepin",
+            "count": "20151"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "601"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "9162"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1189"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "23"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "229"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2544"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1318"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2226"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4446"
+         },
+         {
+            "name": "Popowice",
+            "count": "11234"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1174"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8331"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "3818"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8445"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "15906"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "976"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5604"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2667"
+         },
+         {
+            "name": "Krzyki",
+            "count": "12680"
+         },
+         {
+            "name": "Jagodno",
+            "count": "4567"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "799"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "14257"
+         },
+         {
+            "name": "Gajowice",
+            "count": "17686"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2243"
+         },
+         {
+            "name": "Poświętne",
+            "count": "2965"
+         },
+         {
+            "name": "Oporów",
+            "count": "6696"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "7004"
+         },
+         {
+            "name": "Borek",
+            "count": "12355"
+         },
+         {
+            "name": "Klecina",
+            "count": "6086"
+         },
+         {
+            "name": "Partynice",
+            "count": "2017"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "4992"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "10533"
+         },
+         {
+            "name": "Brochów",
+            "count": "7572"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "12363"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "11744"
+         },
+         {
+            "name": "Huby",
+            "count": "19726"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "5185"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4852"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7144"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "721"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "16444"
+         }
+      ],
+      "2017": [
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1178"
+         },
+         {
+            "name": "Rędzin",
+            "count": "315"
+         },
+         {
+            "name": "Świniary",
+            "count": "716"
+         },
+         {
+            "name": "Marszowice",
+            "count": "1493"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "3982"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5582"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "19048"
+         },
+         {
+            "name": "Kozanów",
+            "count": "15901"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "822"
+         },
+         {
+            "name": "Złotniki",
+            "count": "5373"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "27030"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3823"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "10737"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "6602"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "593"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1773"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "5837"
+         },
+         {
+            "name": "Sępolno",
+            "count": "7724"
+         },
+         {
+            "name": "Biskupin",
+            "count": "11292"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "11145"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1402"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "2093"
+         },
+         {
+            "name": "Gaj",
+            "count": "19297"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "11765"
+         },
+         {
+            "name": "Mokra",
+            "count": "436"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5263"
+         },
+         {
+            "name": "Żar",
+            "count": "199"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1301"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4861"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "7042"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "693"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "20617"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "805"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "13883"
+         },
+         {
+            "name": "Gajowice",
+            "count": "17224"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "4109"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2254"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4421"
+         },
+         {
+            "name": "Popowice",
+            "count": "11009"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1357"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "16142"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8724"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "15746"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6223"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "44090"
+         },
+         {
+            "name": "Szczepin",
+            "count": "19683"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "1215"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2175"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2568"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "14099"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "3469"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2662"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "11967"
+         },
+         {
+            "name": "Poświętne",
+            "count": "3010"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8193"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "593"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "8839"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1191"
+         },
+         {
+            "name": "Oporów",
+            "count": "6764"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "6815"
+         },
+         {
+            "name": "Borek",
+            "count": "12119"
+         },
+         {
+            "name": "Klecina",
+            "count": "6199"
+         },
+         {
+            "name": "Partynice",
+            "count": "1991"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "5338"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "10799"
+         },
+         {
+            "name": "Karłowice",
+            "count": "12651"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5541"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2663"
+         },
+         {
+            "name": "Krzyki",
+            "count": "12993"
+         },
+         {
+            "name": "Jagodno",
+            "count": "5017"
+         },
+         {
+            "name": "Brochów",
+            "count": "7699"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "12077"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "11456"
+         },
+         {
+            "name": "Huby",
+            "count": "19299"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "5384"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "24"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "246"
+         }
+      ],
+      "2018": [
+         {
+            "name": "Mokra",
+            "count": "433"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "10741"
+         },
+         {
+            "name": "Marszowice",
+            "count": "1644"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "4519"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5591"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "18907"
+         },
+         {
+            "name": "Kozanów",
+            "count": "15627"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "1100"
+         },
+         {
+            "name": "Złotniki",
+            "count": "5594"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "26421"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3828"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1761"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "5710"
+         },
+         {
+            "name": "Sępolno",
+            "count": "7549"
+         },
+         {
+            "name": "Biskupin",
+            "count": "11115"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "11168"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1379"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "2267"
+         },
+         {
+            "name": "Gaj",
+            "count": "19076"
+         },
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1192"
+         },
+         {
+            "name": "Rędzin",
+            "count": "310"
+         },
+         {
+            "name": "Świniary",
+            "count": "715"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "825"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "13581"
+         },
+         {
+            "name": "Gajowice",
+            "count": "16857"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2099"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "6804"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "577"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5262"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "3759"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2631"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "12011"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2278"
+         },
+         {
+            "name": "Żar",
+            "count": "192"
+         },
+         {
+            "name": "Karłowice",
+            "count": "12368"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "11985"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "20069"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "14618"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2624"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1290"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4877"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "6934"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "685"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "15826"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "8038"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "604"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "8545"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1212"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4395"
+         },
+         {
+            "name": "Popowice",
+            "count": "10802"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1373"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6306"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "43179"
+         },
+         {
+            "name": "Szczepin",
+            "count": "19330"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "1476"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5636"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2664"
+         },
+         {
+            "name": "Krzyki",
+            "count": "13322"
+         },
+         {
+            "name": "Jagodno",
+            "count": "5491"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "4476"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8820"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "15636"
+         },
+         {
+            "name": "Poświętne",
+            "count": "3099"
+         },
+         {
+            "name": "Brochów",
+            "count": "7741"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "11639"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "11097"
+         },
+         {
+            "name": "Huby",
+            "count": "18844"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "5753"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "21"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "276"
+         },
+         {
+            "name": "Oporów",
+            "count": "6835"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "6647"
+         },
+         {
+            "name": "Borek",
+            "count": "11849"
+         },
+         {
+            "name": "Klecina",
+            "count": "6401"
+         },
+         {
+            "name": "Partynice",
+            "count": "1988"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "5805"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "11061"
+         }
+      ],
+      "2019": [
+         {
+            "name": "Pracze Odrzańskie-Janówek",
+            "count": "1199"
+         },
+         {
+            "name": "Rędzin",
+            "count": "305"
+         },
+         {
+            "name": "Świniary",
+            "count": "728"
+         },
+         {
+            "name": "Marszowice",
+            "count": "1735"
+         },
+         {
+            "name": "Widawa-Lipa Piotrowska-Polanowice",
+            "count": "5105"
+         },
+         {
+            "name": "Pilczyce",
+            "count": "5574"
+         },
+         {
+            "name": "Osiedle Kosmonautów",
+            "count": "18658"
+         },
+         {
+            "name": "Kozanów",
+            "count": "15340"
+         },
+         {
+            "name": "Nowe Żerniki-Kolonie Żernickie",
+            "count": "1361"
+         },
+         {
+            "name": "Złotniki",
+            "count": "5968"
+         },
+         {
+            "name": "Rejon placu Grunwaldzkiego",
+            "count": "25830"
+         },
+         {
+            "name": "Żerniki",
+            "count": "3836"
+         },
+         {
+            "name": "Zacisze",
+            "count": "1712"
+         },
+         {
+            "name": "Kuźniki",
+            "count": "5717"
+         },
+         {
+            "name": "Sępolno",
+            "count": "7472"
+         },
+         {
+            "name": "Biskupin",
+            "count": "10964"
+         },
+         {
+            "name": "Grabiszynek",
+            "count": "11208"
+         },
+         {
+            "name": "Rejon ulicy Saperów",
+            "count": "1364"
+         },
+         {
+            "name": "Tarnogaj",
+            "count": "2386"
+         },
+         {
+            "name": "Gaj",
+            "count": "19016"
+         },
+         {
+            "name": "Mokra",
+            "count": "428"
+         },
+         {
+            "name": "Zakrzów",
+            "count": "10692"
+         },
+         {
+            "name": "Maślice Wielkie",
+            "count": "4061"
+         },
+         {
+            "name": "Osobowice",
+            "count": "2640"
+         },
+         {
+            "name": "Zgorzelisko",
+            "count": "11960"
+         },
+         {
+            "name": "Kowale-Popiele",
+            "count": "2319"
+         },
+         {
+            "name": "Rejon alei Kromera",
+            "count": "4276"
+         },
+         {
+            "name": "Popowice",
+            "count": "10632"
+         },
+         {
+            "name": "Jarnołtów-Jerzmanowo",
+            "count": "1410"
+         },
+         {
+            "name": "Rejon ulicy Klęczkowskiej",
+            "count": "6457"
+         },
+         {
+            "name": "Rejon placu Świętego Macieja",
+            "count": "42268"
+         },
+         {
+            "name": "Szczepin",
+            "count": "19039"
+         },
+         {
+            "name": "Pawłowice-Kłokoczyce",
+            "count": "2702"
+         },
+         {
+            "name": "Zalesie i Stadion",
+            "count": "1274"
+         },
+         {
+            "name": "Strachocin-Wojnów",
+            "count": "4908"
+         },
+         {
+            "name": "Gądów Mały",
+            "count": "6876"
+         },
+         {
+            "name": "Strachowice-Osiniec",
+            "count": "685"
+         },
+         {
+            "name": "Nowy Dwór",
+            "count": "15540"
+         },
+         {
+            "name": "Muchobór Mały",
+            "count": "7921"
+         },
+         {
+            "name": "Szczytniki",
+            "count": "592"
+         },
+         {
+            "name": "Stare Miasto",
+            "count": "8260"
+         },
+         {
+            "name": "Dąbie",
+            "count": "1208"
+         },
+         {
+            "name": "Żar",
+            "count": "192"
+         },
+         {
+            "name": "Karłowice",
+            "count": "12110"
+         },
+         {
+            "name": "Muchobór Wielki",
+            "count": "12248"
+         },
+         {
+            "name": "Rejon ulicy Traugutta",
+            "count": "19632"
+         },
+         {
+            "name": "Stabłowice",
+            "count": "15096"
+         },
+         {
+            "name": "Swojczyce",
+            "count": "1939"
+         },
+         {
+            "name": "Księże Małe-Księże Wielkie",
+            "count": "5755"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Południe",
+            "count": "2684"
+         },
+         {
+            "name": "Krzyki",
+            "count": "13662"
+         },
+         {
+            "name": "Jagodno",
+            "count": "5858"
+         },
+         {
+            "name": "Rakowiec-Opatowice",
+            "count": "836"
+         },
+         {
+            "name": "Przedmieście Świdnickie",
+            "count": "13208"
+         },
+         {
+            "name": "Gajowice",
+            "count": "16430"
+         },
+         {
+            "name": "Grabiszyn",
+            "count": "2057"
+         },
+         {
+            "name": "Maślice Małe",
+            "count": "7005"
+         },
+         {
+            "name": "Psie Pole Północ",
+            "count": "573"
+         },
+         {
+            "name": "Psie Pole Południe-Kiełczów",
+            "count": "5317"
+         },
+         {
+            "name": "Poświętne",
+            "count": "3164"
+         },
+         {
+            "name": "Brochów",
+            "count": "7954"
+         },
+         {
+            "name": "Powstańców Śląskich Zachód-Centrum Południowe",
+            "count": "11321"
+         },
+         {
+            "name": "Powstańców Śląskich Wschód",
+            "count": "10767"
+         },
+         {
+            "name": "Huby",
+            "count": "18379"
+         },
+         {
+            "name": "Osiedle Henrykowskie",
+            "count": "6089"
+         },
+         {
+            "name": "Sołtysowice",
+            "count": "5069"
+         },
+         {
+            "name": "Leśnica-Ratyń-Pustki",
+            "count": "8840"
+         },
+         {
+            "name": "Różanka-Polanka",
+            "count": "15659"
+         },
+         {
+            "name": "Rejon ulicy Borowskiej-Północ",
+            "count": "20"
+         },
+         {
+            "name": "Klecina",
+            "count": "6641"
+         },
+         {
+            "name": "Partynice",
+            "count": "1959"
+         },
+         {
+            "name": "Wojszyce",
+            "count": "6243"
+         },
+         {
+            "name": "Rejon ulicy Krakowskiej",
+            "count": "285"
+         },
+         {
+            "name": "Oporów",
+            "count": "6929"
+         },
+         {
+            "name": "Rejon ulicy Mieleckiej",
+            "count": "6528"
+         },
+         {
+            "name": "Borek",
+            "count": "11671"
+         },
+         {
+            "name": "Ołtaszyn",
+            "count": "11329"
+         }
+      ]
+   }
+]

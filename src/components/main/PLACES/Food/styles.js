@@ -1,26 +1,29 @@
 import styled from 'styled-components';
 import * as Common from "../../../styles/common-styles"
 
-export const Container = styled(Common.SectionContainer)`
-    width: min(80rem, 100%);`
+export const Container = styled(Common.FlexC)`
+    width: 100%;
+    position: relative;
+    background-color: #093858;
+    color: #FFF;
+    padding: 3rem;
+    & * {
+        width: min(100rem, 100%) ;
+    }
+    `
 
-    export const Title = styled(Common.Title)``
-
-    export const TextTitle = styled(Common.TextTitle)`
-        margin: 5rem auto;
-        text-align: center;
-        `
-
-    export const Text = styled.p`
-        padding: 2rem;
-        `
-
-    export const Img = styled(Common.FullWidthImg)`
-        height: 33vw;
-        background-image: url(img/fullwidth/food.jpg);
-        background-position-y: 35%;
-        min-height: 25rem;
-        `
+export const Img = styled(Common.FullWidthImg)`
+    height: 100%;
+    background-image: url(img/places/food/food.jpg);
+    background-position: 0 -17rem;
+    display: flex;
+    align-items: flex-end;
+    `
+export const Content = styled.div`
+    margin: 0 auto;
+    padding: 4rem 0;
+    width: min(100rem, 100%);
+    `
 
     export const Restaurants = styled.div`
         display: flex;
@@ -51,14 +54,14 @@ export const Container = styled(Common.SectionContainer)`
         `
 
         export const Whisky = styled.div`
-            background-image: url(img/food/whiskey.png);
+            background-image: url(img/places/food/whiskey.png);
             `
 
         export const Ragu = styled.div`
-            background-image: url(img/food/ragu.png);
+            background-image: url(img/places/food/ragu.png);
             `
 
         export const Oliwa = styled.div`
-            background-image: url(img/food/oliwa.jpg);
+            background-image: url(img/places/food/oliwa.jpg);
             `
 

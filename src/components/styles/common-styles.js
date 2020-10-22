@@ -1,19 +1,20 @@
 import styled from 'styled-components';
 
+export const Flex = styled.div`
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    `
 
-export const HeaderContainer = styled.header`
-    width: min(120rem, 100%);
-    margin: 0 auto;
-    font-family: 'Nunito', 'sans-serif';
-    padding: 3rem 1rem;
-`
+export const FlexC = styled(Flex)`
+    flex-direction: column;
+    `
 
 export const Section = styled.section`
     height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    scroll-snap-align: start;
     `
 
 export const Container = styled.div`
@@ -41,9 +42,6 @@ export const Content = styled.div`
     align-items: center;
     `
 export const ContentRow = styled(Content)`
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     width: 50%;
     margin: 0;
     background-color: #093858;
@@ -94,6 +92,7 @@ export const TextTitle = styled.h2`
     letter-spacing: 0.05em;
     margin-bottom: 2rem;
     text-align: left;
+    text-transform: capitalize;
     `
 
 export const FullWidthImg = styled.div`

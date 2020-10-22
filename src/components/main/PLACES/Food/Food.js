@@ -1,13 +1,14 @@
 import React from "react"
 import * as SC from "./styles"
+import * as Common from "../../../styles/common-styles"
 
 const Food = () => (
-  <>
-    <SC.Img />
+<>
+  <Common.Section>
+    <SC.Img>
     <SC.Container>
-      <SC.Title>food</SC.Title>
-      <SC.TextTitle>restaurants, pubs and clubs</SC.TextTitle>
-      <SC.Text>
+      <Common.TextTitle>restaurants, pubs and clubs</Common.TextTitle>
+      <p>
         The city is well known for its large number of restaurants, nightclubs
         and pubs. Many are in or near the Market Square, and in the Niepolda
         passage, the railway wharf on the Bogusławskiego street. There are many
@@ -19,8 +20,13 @@ const Food = () => (
         pizza. Most famous places to eat this variety are: Piec na Szewskiej,
         Vaffa Napoli, Oliwa i Ogień and Iggy Pizza. Every year in November and
         December the Christmas market is held at the Market Square.
-      </SC.Text>
-      <SC.TextTitle>recommended by author...</SC.TextTitle>
+      </p>
+    </SC.Container>
+    </SC.Img>
+  </Common.Section>
+  <section>
+    <SC.Content>
+      <Common.TextTitle>recommended by author...</Common.TextTitle>
       <SC.Restaurants>
         <SC.Whisky>
           <div>Delicious steaks, burgers and grill plus whiskey!</div>
@@ -32,9 +38,8 @@ const Food = () => (
           <div>One of the best neapolitan pizzas in the city!</div>
         </SC.Oliwa>
       </SC.Restaurants>
-
-
-    </SC.Container>
+    </SC.Content>
+  </section>
   </>
 )
 

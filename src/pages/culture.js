@@ -3,16 +3,18 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Architecture from "../components/main/CULTURE/Architecture/Architecture"
-import Monuments from "../components/main/PLACES/Monuments/Monuments"
-import Bluebar from "../components/main/Bluebar/Bluebar"
+import Monuments from "../components/main/CULTURE/Monuments/Monuments"
+import Pedestrian from "../components/main/CULTURE/Pedestrian/Pedestrian"
+import Stadium from "../components/main/CULTURE/Stadium/Stadium"
 
 
 const Culture = () => (
-  <Layout>
+  <Layout text_content="city of bridges, monuments and dwarfs ..." title="culture">
     <SEO title="Culture" />
-    <Bluebar text_content="city of bridges, monuments and dwarfs ..."/>
     <Architecture />
     <Monuments />
+    <Pedestrian />
+    <Stadium />
   </Layout>
 )
 

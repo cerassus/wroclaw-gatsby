@@ -1,8 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-import Menu from "./header/Menu/Menu"
-import Moment from "./header/Moment/Moment"
+import Header from "./header/Header/Header"
 import Footer from "./footer/Footer"
 import { createGlobalStyle } from 'styled-components'
 
@@ -19,7 +18,7 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Spartan', sans-serif;
     background-color: #FFF;
     width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
     font-size: 1.4rem;
     color: #093858;
     text-align: center;
@@ -33,18 +32,27 @@ const GlobalStyle = createGlobalStyle`
   p {
     font-size: 1.4rem;
     font-weight: 300;
-    line-height: 2rem;
+    line-height: 2.5rem;
     text-align: justify;
   }
   span {
     font-weight: 500;
   }
-  main {
+  body > * > * {
+    -webkit-overflow-scrolling: touch;
     scroll-snap-type: y mandatory;
+    height: 100vh;
+    overflow-x: hidden;
+  & > * {
+    scroll-snap-align: start;
   }
-  `
+`
 
-const Layout = ({ children }) => {
+  
+
+
+
+const Layout = ({ children, title, text_content }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
       site {
@@ -58,9 +66,8 @@ const Layout = ({ children }) => {
   return (
     <>
       <GlobalStyle />
-      <Menu />
-      <Moment />
-        <main>{children}</main>
+      <Header title={title} text_content={text_content}/>
+       {children}
       <Footer />
     </>
   )

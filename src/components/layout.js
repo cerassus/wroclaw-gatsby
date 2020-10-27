@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header/Header/Header"
 import Footer from "./footer/Footer"
 import { createGlobalStyle } from 'styled-components'
+import Scroll from "../components/ScrollToTop/ScrollToTop"
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -13,6 +14,7 @@ const GlobalStyle = createGlobalStyle`
   }
   html {
     font-size: 62.5%;
+    scroll-behavior: smooth;
   }
   body {
     font-family: 'Spartan', sans-serif;
@@ -34,6 +36,10 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 300;
     line-height: 2.5rem;
     text-align: justify;
+    @media (max-width: 450px) {
+      font-size: 1.2rem;
+      line-height: 2rem;
+    }
   }
   span {
     font-weight: 500;
@@ -48,7 +54,6 @@ const GlobalStyle = createGlobalStyle`
   }
 `
 
-  
 
 
 
@@ -68,6 +73,7 @@ const Layout = ({ children, title, text_content }) => {
       <GlobalStyle />
       <Header title={title} text_content={text_content}/>
        {children}
+       <Scroll />
       <Footer />
     </>
   )

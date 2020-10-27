@@ -1,16 +1,15 @@
 import styled from 'styled-components';
 import * as Common from "../../../styles/common-styles"
 
-export const Content = styled(Common.Content)`
+export const ImageContent = styled.div`
     width: 100%;
     position: relative;
     top: 3vw;
-    & * {
-        width: min(100rem, 100%) ;
-    }
+    background-color: ${Common.colors.white};
+    padding: 3rem;
     `
 
 export const Img = styled(Common.FullWidthImg)`
     background-image: url(img/home/monuments.jpg);
-    height: calc(49vw + 10px);
+    height: 100vh;
     `

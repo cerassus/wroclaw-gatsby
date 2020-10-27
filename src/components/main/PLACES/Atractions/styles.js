@@ -5,7 +5,7 @@ export const Container = styled.div`
     width: 100%;
     text-align: center;
     `
-    export const Title = styled(Common.Title)`
+    export const Title = styled.div`
         margin: 8rem auto;
         `
 

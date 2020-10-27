@@ -20,8 +20,13 @@ export const MapContainer = styled.div`
     display: inline-block;
     position: relative;
     background-color: black;
-    margin: 25rem 0;
-    
+    margin: 20vh 0 30vh;
+    @media (max-width: 600px) {
+        margin: 20vh 0;
+    }
+    @media (max-width: 400px) {
+        margin: 15vh 0;
+    }
     & * {
         background-repeat: no-repeat;
         background-size: contain;

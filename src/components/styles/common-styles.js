@@ -1,5 +1,14 @@
 import styled from 'styled-components';
 
+
+export const colors = {
+    primary: "#093858",
+    secondary: "#165986",
+    shadow: "rgba(0, 0, 0, 0.75)",
+    white: "#FFF",
+    black: "#000",
+}
+
 export const Flex = styled.div`
     display: flex;
     justify-content: center;
@@ -12,13 +21,13 @@ export const FlexC = styled(Flex)`
 
 export const Section = styled.section`
     height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
     `
+    // display: flex;
+    // flex-direction: column;
+    // justify-content: space-around;
 
 export const Container = styled.div`
-    width: min(120rem, 100%);
+    width: min(120rem, 95%);
     margin: 0 auto;
 `
 export const SectionContainer = styled(Container)`
@@ -31,16 +40,8 @@ export const Content = styled.div`
     background-color: rgba(255, 255, 255, 0.95);
     border-radius: 4px;
     padding: 3rem;
-    & * {
-        padding: 1rem;
-        width: min(80rem, 100%);
-        margin: 0 auto;
-    }
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     `
+    
 export const ContentRow = styled(Content)`
     width: 50%;
     margin: 0;
@@ -52,40 +53,11 @@ export const ContentRow = styled(Content)`
         width: min(70rem, 100%);
     }
     `
-
-export const Title = styled.h1`
-    margin: 5rem auto;
-    font-weight: normal;
-    display: inline-block;
-    position: relative;
-    &::before {
-        content: "";
-        position: absolute;
-        top: -1.5rem;
-        right: 0;
-        height: 2px;
-        width: 30rem;
-        background: linear-gradient(270deg, #093858 0%, rgba(9, 56, 88, 0) 100%);
-        border-radius: 25%;
-    }
-    &::after {
-        content: "";
-        position: absolute;
-        bottom: -1.5rem;
-        left: 0;
-        height: 2px;
-        width: 30rem;
-        background: linear-gradient(90deg, #093858 0%, rgba(9, 56, 88, 0) 100%);
-        border-radius: 25%;
-    }
-`
-
-export const TitleBig = styled(Title)`
-    &::before, &::after {
-        width: 60rem;
-    }
+export const TextContent = styled.div`
+    width: min(100rem, 100%);
+    margin: 0 auto;
     `
-    
+
 export const TextTitle = styled.h2`
     font-weight: 600;
     font-size: 2.8rem;
@@ -93,6 +65,12 @@ export const TextTitle = styled.h2`
     margin-bottom: 2rem;
     text-align: left;
     text-transform: capitalize;
+    ${props => props.lowercase && "text-transform: lowercase"};
+    ${props => props.uppercase && "text-transform: uppercase"};
+    ${props => props.center && "text-align: center;"};
+    ${props => props.bold && "font-weight: 800" };
+    ${props => props.thin && "font-weight: 400" };
+    ${props => props.wide && "letter-spacing: 0.15em"};
     `
 
 export const FullWidthImg = styled.div`
@@ -101,3 +79,4 @@ export const FullWidthImg = styled.div`
     background-repeat: no-repeat;
     width: 100%;
     `
+

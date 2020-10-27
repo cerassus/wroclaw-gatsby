@@ -1,108 +1,95 @@
-import styled from 'styled-components';
+import styled from "styled-components"
 import * as Common from "../../styles/common-styles"
 
 export const HeaderContainer = styled(Common.Container)`
-    font-family: 'Nunito', 'sans-serif';
-    padding: 3rem 1rem;
-    `
+  font-family: "Nunito", "sans-serif";
+  padding: 3rem 1rem;
+`
 
 export const HeaderTop = styled.div`
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    `
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+`
 
-    export const HeaderImg = styled.img`
-        width: 35%;
-        `
-    export const HeaderTitle = styled.h1`
-        font-weight: 700;
-        font-size: 4.8rem;
-        text-transform: uppercase;
-        transform: translate(-10%, -5%);
-        letter-spacing: 0.12em;
-        color: #165986;
-        `
+export const HeaderImg = styled.img`
+  width: 35%;
+  filter: brightness(0.8);
+  @media (max-width: 600px) {
+    width: 100%;
+    margin-bottom: 7rem;
+  }
+`
+export const HeaderTitle = styled.h1`
+  font-weight: 700;
+  font-size: 4.8rem;
+  text-transform: uppercase;
+  transform: translate(-10%, -5%);
+  letter-spacing: 0.12em;
+  color: ${Common.colors.secondary};
+  @media (max-width: 600px) {
+    transform: translate(-100%, -5%);
+  }
+`
 
 export const HeaderBottom = styled.div`
-    display: flex;
-    align-items: flex-end;
-    justify-content: flex-end;
-    letter-spacing: 0.12em;
-    position: relative;
-    `
-    export const HeaderLine = styled.div`
-        height: 2px;
-        width: 100%;
-        background-color: #165986;
-        margin: 0.5vh 0;
-        `
-    export const HeaderSubtitle = styled.h2`
-        font-weight: normal;
-        font-size: 2rem;
-        padding-left: 0.5rem;
-        position: absolute;
-        background-color: white;
-        transform: translateY(5px);
-        `
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  letter-spacing: 0.12em;
+  position: relative;
+`
+export const HeaderLine = styled.div`
+  height: 2px;
+  width: 100%;
+  background-color: ${Common.colors.secondary};
+  margin: 0.5vh 0;
+`
+export const HeaderSubtitle = styled.h2`
+  font-weight: normal;
+  font-size: 2rem;
+  padding-left: 0.5rem;
+  position: absolute;
+  background-color: ${Common.colors.white};
+  transform: translateY(5px);
+`
 
+export const Nav = styled.ul`
+  display: flex;
+  list-style: none;
+  @media (max-width: 800px) {
+    margin-top: 2rem;
+  }
+  @media (max-width: 600px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-// export const HeaderContainer = styled.header`
-//         width: min(120rem, 100%);
-//         background-color: #F7F3F3;
-//         margin: 0 auto;
-//         font-family: 'Nunito', 'sans-serif';
-//         padding: 1rem;
-//         display: flex;
-//         `
-//     export const HeaderLeft = styled.div`
-//         width: 100%;
-//         margin-right: 1rem;
-//         `
-    
-//         export const HeaderImg = styled.img`
-//             height: 10rem;
-//             `
-    
-//         export const HeaderLine = styled.div`
-//             height: 2px;
-//             width: 100%;
-//             background-color: #165986;
-//             margin-bottom: 1rem;
-//             `
-    
-//     export const HeaderRight = styled.div`
-//         display: flex;
-//         flex-direction: column;
-//         align-items: flex-end;
-//         justify-content: flex-end;
-//         letter-spacing: 0.12em;
-//         `
-//         export const HeaderTitle = styled.h1`
-//             position: absolute;
-//             top: -200%;
-//             right: 25%;
-//             font-weight: 700;
-//             font-size: 4.8rem;
-//             text-transform: uppercase;
-//             `
-//         export const HeaderSubtitle = styled.h2`
-//             position: relative;
-//             font-weight: normal;
-//             font-size: 2rem;
-//             width: 20rem;
-//             `
+export const NavItem = styled.li`
+  text-transform: uppercase;
+  margin-right: 1vw;
+  font-size: 2rem;
+  letter-spacing: 0.15em;
+  &:not(:first-child)::before {
+    content: "|";
+    margin-right: 5px;
+    @media (max-width: 600px) {
+      content: "";
+      margin-right: 0;
+    }
+  }
+  & > * {
+    &,
+    &:link,
+    &:visited {
+      text-decoration: none;
+      color: #093858;
+    }
+  }
+  ${props => props.bold && "font-weight: 800"};
+  @media (max-width: 600px) {
+    margin: 0.5rem 0;
+  }
+`

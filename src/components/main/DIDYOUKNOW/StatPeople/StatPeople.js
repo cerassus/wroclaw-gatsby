@@ -1,19 +1,42 @@
 import React from "react"
 import * as SC from "./styles"
+import * as Common from "../../../styles/common-styles"
 
 const StatPeople = () => (
-    <SC.Container>
-      <SC.TextTitle>in productive state...</SC.TextTitle>
-      <SC.TextResult></SC.TextResult>
-      <SC.TextTitle>retired...</SC.TextTitle>
-      <SC.TextResult></SC.TextResult>
-      <SC.TextTitle>over 100 years old are...</SC.TextTitle>
-      <SC.TextResult></SC.TextResult>
-      <SC.TextTitle>newborn...</SC.TextTitle>
-      <SC.TextResult></SC.TextResult>      
-      <SC.TextTitle>died...</SC.TextTitle>
-      <SC.TextResult></SC.TextResult>
-    </SC.Container>
+  <Common.Section>
+    <Common.Container>
+      <SC.Row>
+        <SC.Box>
+          <div>OF LEGAL AGE...</div>
+          <div>... people</div>
+        </SC.Box>
+        <SC.Box>
+          <div>and IN PRODUCTIVE STATE...</div>
+          <div>... people</div>
+        </SC.Box>
+      </SC.Row>
+      <SC.Row>
+        <SC.Box>
+          <div>ARE RETIRED...</div>
+          <div>... people</div>
+        </SC.Box>
+        <SC.Box>
+          <div>and OVER 100 YEARS OLD...</div>
+          <div>... people</div>
+        </SC.Box>
+      </SC.Row>
+      <SC.Row>
+        <SC.Box>
+          <div>NEWBORN...</div>
+          <div>... people</div>
+        </SC.Box>
+        <SC.Box>
+          <div>and DIED...</div>
+          <div>... people</div>
+        </SC.Box>
+      </SC.Row>
+    </Common.Container>
+  </Common.Section>
 )
 
 export default StatPeople

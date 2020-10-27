@@ -1,7 +1,9 @@
 import styled from "styled-components"
 import * as Common from "../../styles/common-styles"
 
-export const Container = styled(Common.Container)`
+export const Container = styled.div`
+  width: min(120rem, 95%);
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   font-family: "Nunito", "sans-serif";
@@ -15,6 +17,9 @@ export const Container = styled(Common.Container)`
             margin-bottom: 2rem;
         }
     }
+  }
+  @media (max-width: 330px) {
+    padding: 0 0 0.5rem 0;
   }
 `
 

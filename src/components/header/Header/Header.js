@@ -2,12 +2,13 @@ import React from "react"
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import * as SC from "./styles"
+import * as Common from "../../styles/common-styles"
 import Moment from "../Moment/Moment"
 import Bluebar from "../Bluebar/Bluebar"
 
 const Header = ({title, text_content }) => (
   <header>
-  <SC.HeaderContainer>
+  <Common.Content width="120" nunito padding="3rem 1rem">
     <SC.HeaderTop>
       <SC.HeaderImg src="img/header/logo.png" alt="header_img" />
       <SC.HeaderTitle>wrostat</SC.HeaderTitle>
@@ -22,7 +23,7 @@ const Header = ({title, text_content }) => (
       <SC.NavItem bold={title==="places" && true}><Link to="/places">Places</Link></SC.NavItem>
       <SC.NavItem bold={title==="did you know" && true}><Link to="/didyouknow">Did You Know</Link></SC.NavItem>
     </SC.Nav>
-  </SC.HeaderContainer>
+  </Common.Content>
   <Moment />
   <Bluebar title={title} text_content={text_content} />
   </header>

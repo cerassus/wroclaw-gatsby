@@ -1,11 +1,17 @@
 import React from "react"
-import * as SC from "./styles"
+import styled from 'styled-components';
 import * as Common from "../../../styles/common-styles"
+
+const Content = styled(Common.Content)`
+    height: 100vh;
+    margin: 0 3vw 0 auto;
+    `
 
 const Ostrów = () => (
   <Common.Section>
-    <SC.Img>
-      <SC.Content>
+    <Common.BackgroundImg src='img/home/cathedral.jpg'>
+      <Content transparent width="60">
+        <Common.Content row>
         <Common.TextTitle>Ostrów Tumski</Common.TextTitle>
         <p>
           Surrounded by the river Oder, the old burgh, the origin of the city,
@@ -21,30 +27,14 @@ const Ostrów = () => (
           Polish.{" "}
         </p>
         <p>
-          The cathedral was very badly damaged (about 70% of the building)
-          during the Siege of Breslau and heavy bombing by the Red Army in the
-          last days of World War II. Not only because of Soviet aerial and
-          artillery bombardment, but also as a result of the self-destructive
-          actions of the SS and the NSDAP, 80 to 90 per cent of Breslau was
-          destroyed . . . after the Soviet capture of the Gandauer airfield, the
-          Wehrmacht destroyed many houses and three churches to build a
-          provisional airstrip 200 to 400 meters wide and two kilometers long.
-          — August 1945 report of damage to Breslau by employees of the Saxony
-          state administration[20] Parts of the interior fittings were saved and
-          are now on display at the National Museum in Warsaw. The initial
-          reconstruction of the church lasted until 1951, when it was
-          reconsecrated by Archbishop Stefan Wyszyński. In the following years,
-          additional aspects were rebuilt and renovated. The original, conical
-          shape of the towers was restored only in 1991.
-        </p>
-        <p>
           {" "}
           The current cathedral is a three-nave Gothic oriented basilica
           surrounded by an ambulatory. The cathedral has three entrances: the
           main western portal and two later entrances from the north and south.
         </p>
-      </SC.Content>
-    </SC.Img>
+        </Common.Content>
+      </Content>
+    </Common.BackgroundImg>
   </Common.Section>
 )
 

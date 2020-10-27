@@ -1,28 +1,29 @@
 import React from "react"
-import * as SC from "./styles"
+import styled from 'styled-components';
 import * as Common from "../../../styles/common-styles"
+import { colors } from "../../../styles/common-styles"
 
 const Administration = () => (
   <Common.Section>
-    <SC.Map>
-      <SC.MapContainer>
-        <SC.PsiePoleSibling></SC.PsiePoleSibling>
-        <SC.PsiePole>
-          <SC.FabrycznaSibling></SC.FabrycznaSibling>
-          <SC.Fabryczna>
-            <SC.SrodmiescieSibling></SC.SrodmiescieSibling>
-            <SC.Srodmiescie>
-              <SC.StareMiastoSibling></SC.StareMiastoSibling>
-              <SC.StareMiasto>
-                <SC.KrzykiSibling></SC.KrzykiSibling>
-                <SC.Krzyki></SC.Krzyki>
-              </SC.StareMiasto>
-            </SC.Srodmiescie>
-          </SC.Fabryczna>
-        </SC.PsiePole>
-      </SC.MapContainer>
-    </SC.Map>
-    <Common.Content>
+    <Map>
+      <MapContainer>
+        <PsiePoleSibling></PsiePoleSibling>
+        <PsiePole>
+          <FabrycznaSibling></FabrycznaSibling>
+          <Fabryczna>
+            <SrodmiescieSibling></SrodmiescieSibling>
+            <Srodmiescie>
+              <StareMiastoSibling></StareMiastoSibling>
+              <StareMiasto>
+                <KrzykiSibling></KrzykiSibling>
+                <Krzyki></Krzyki>
+              </StareMiasto>
+            </Srodmiescie>
+          </Fabryczna>
+        </PsiePole>
+      </MapContainer>
+    </Map>
+    <Common.Content width="100">
       <Common.TextTitle>Boroughs</Common.TextTitle>
       <p>
         Wrocław is subdivided into five main boroughs: <span>Fabryczna</span>
@@ -42,5 +43,114 @@ const Administration = () => (
     </Common.Content>
   </Common.Section>
 )
+
+const Map = styled.div`
+    transition: all .2s;
+    transform: rotateX(33deg);
+    @media (max-width: 850px) {
+        transform: rotateX(33deg) scale(0.8);
+    }
+    @media (max-width: 650px) {
+        transform: rotateX(33deg) scale(0.6);
+    }
+    @media (max-width: 500px) {
+        transform: rotateX(33deg) scale(0.4);
+    }
+    `
+
+const MapContainer = styled.div`
+    width: 1px;
+    height: 1px;
+    display: inline-block;
+    position: relative;
+    background-color: ${colors.black};
+    margin: 20vh 0 40vh;
+    @media (max-width: 600px) {
+        margin: 20vh 0;
+    }
+    & * {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        transition: all 0.3s;
+    }
+    `
+    const PsiePole = styled.div`
+        bottom: -20rem;
+        left: -13rem;
+        width: 504px;
+        height: 397px;
+        background-image: url(data/psiepole.png); visibility: hidden;
+    `
+    const PsiePoleSibling = styled(PsiePole)`
+        z-index: 1000; 
+        visibility: visible!important;
+        &:hover {
+            filter: drop-shadow(0 25px 5px ${colors.shadow}) brightness(0.5);
+            transform: translateY(-3%);
+        }
+    `
+    const Fabryczna = styled.div`    
+        bottom: -10.5%;
+        left: -43%;
+        width: 404px;
+        height: 439px;
+        background-image: url(data/fabryczna.png); visibility: hidden;
+    `
+
+    const FabrycznaSibling = styled(Fabryczna)`  
+        z-index: 1000; visibility: visible!important;
+        &:hover {
+            filter: drop-shadow(0 25px 5px ${colors.shadow}) brightness(0.5);
+            transform: translateY(-3%);
+        }
+    `
+
+    const Srodmiescie = styled.div`
+        bottom: 22%;
+        left: 92%;
+        width: 107px;
+        height: 97px;
+        background-image: url(data/srodmiescie.png); visibility: hidden;
+    `
+
+    const SrodmiescieSibling = styled(Srodmiescie)`
+        z-index: 1000; visibility: visible!important;
+        &:hover {
+            filter: drop-shadow(0 25px 5px ${colors.shadow}) brightness(0.5);
+            transform: translateY(-3%);
+        }
+    `
+
+    const StareMiasto = styled.div`
+        bottom: -18%;
+        left: 39%;
+        width: 211px;
+        height: 114px;
+        background-image: url(data/staremiasto.png); visibility: hidden;
+    `
+
+    const StareMiastoSibling = styled(StareMiasto)`
+        z-index: 1000; visibility: visible!important;
+        &:hover {
+            filter: drop-shadow(0 25px 5px ${colors.shadow}) brightness(0.5);
+            transform: translateY(-3%);
+        }
+    `
+    const Krzyki = styled.div`
+        bottom: -138%;
+        left: -57%;
+        width: 369px;
+        height: 206px;
+        background-image: url(data/krzyki.png); visibility: hidden;
+    `
+
+    const KrzykiSibling = styled(Krzyki)`
+        z-index: 1000; visibility: visible!important;
+        &:hover {
+            filter: drop-shadow(0 25px 5px ${colors.shadow}) brightness(0.5);
+            transform: translateY(-3%);
+        }
+    `
 
 export default Administration

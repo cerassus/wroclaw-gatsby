@@ -1,10 +1,6 @@
 import styled from "styled-components"
 import * as Common from "../../styles/common-styles"
 
-export const HeaderContainer = styled(Common.Container)`
-  font-family: "Nunito", "sans-serif";
-  padding: 3rem 1rem;
-`
 
 export const HeaderTop = styled.div`
   width: 100%;
@@ -72,6 +68,7 @@ export const NavItem = styled.li`
   margin-right: 1vw;
   font-size: 2rem;
   letter-spacing: 0.15em;
+  transition: all .2s;
   &:not(:first-child)::before {
     content: "|";
     margin-right: 5px;
@@ -80,6 +77,9 @@ export const NavItem = styled.li`
       margin-right: 0;
     }
   }
+  &:hover {
+    transform: translateY(3px);
+  }
   & > * {
     &,
     &:link,
@@ -87,6 +87,7 @@ export const NavItem = styled.li`
       text-decoration: none;
       color: #093858;
     }
+
   }
   ${props => props.bold && "font-weight: 800"};
   @media (max-width: 600px) {

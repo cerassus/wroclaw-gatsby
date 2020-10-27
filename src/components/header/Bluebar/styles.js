@@ -20,7 +20,7 @@ export const Bluebar = styled.div`
     `
     
 export const Title = styled.h1`
-    margin: 8rem auto;
+    margin: 7rem auto;
     font-weight: normal;
     display: inline-block;
     position: relative;
@@ -44,6 +44,8 @@ export const Title = styled.h1`
         background: linear-gradient(90deg, ${colors.primary} 0%, rgba(9, 56, 88, 0) 100%);
         border-radius: 25%;
     }
+    @media (max-height: 700px) {
+        display: none;
     `
 
 export const TitleBig = styled(Title)`

@@ -1,12 +1,20 @@
 import React from "react"
-import * as SC from "./styles"
 import * as Common from "../../../styles/common-styles"
+import styled from 'styled-components';
+
+const ImageContent = styled.div`
+    width: 100%;
+    position: relative;
+    top: 3vw;
+    background-color: ${Common.colors.transparent};
+    padding: 3rem;
+    `
 
 const City = () => (
   <Common.Section>
-    <SC.Img>
-      <SC.ImageContent>
-        <Common.TextContent>
+    <Common.BackgroundImg src='img/home/monuments.jpg'>
+      <ImageContent>
+        <Common.Content width="100">
           <Common.TextTitle>Wrocław</Common.TextTitle>
           <p>
             Wrocław is a city in western Poland and the largest city in the
@@ -15,9 +23,9 @@ const City = () => (
             from the Baltic Sea to the north and 40 kilometres (25 mi) from the
             Sudeten Mountains to the south.
           </p>
-        </Common.TextContent>
-      </SC.ImageContent>
-    </SC.Img>
+        </Common.Content>
+      </ImageContent>
+    </Common.BackgroundImg>
   </Common.Section>
 )
 

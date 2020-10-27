@@ -1,11 +1,11 @@
 import React from "react"
-import * as SC from "./styles"
+import styled from 'styled-components';
 import * as Common from "../../../styles/common-styles"
 
 const History = () => (
   <Common.Section>
-    <SC.Img>
-      <Common.Content>
+    <Common.BackgroundImg src='img/home/rynek.jpg'>
+      <Common.Content transparent={true} centered={true} padding="5rem">
         <Common.TextTitle>History</Common.TextTitle>
         <p>
           The beginnings of Wrocław are connected with a settlement that
@@ -28,24 +28,8 @@ const History = () => (
           seat of the Wrocław bishopric, subordinate to the Archbishopric of
           Gniezno.{" "}
         </p>
-        <p>
-          During the period of fragmentation in Poland, Silesia and the largest
-          of its cities became the domain of a new line of princes – the
-          Silesian Piasts. Numerous settlements arouse around the ducal city
-          located on the Oder islands. At the beginning of 13th century, they
-          started gradually transforming into one city organism. This process
-          sped up after the Mongol invasion of 1241, during which Wrocław itself
-          was also partially demolished. The city was rebuilt based on German
-          law. At this time, the German colonists that took over a domineering
-          role among the citizens were encouraged by the Silesian Piasts to
-          settle in Silesia, who hoped that it would support the process of
-          rending their lands habitable. In the second half of the 13th century,
-          the city already had brick city walls and a moat. In 1261, in
-          compliance with the Magdeburg Law given to Wrocław, a government body
-          took over managing the city – the City Council.
-        </p>
       </Common.Content>
-    </SC.Img>
+    </Common.BackgroundImg>
   </Common.Section>
 )
 

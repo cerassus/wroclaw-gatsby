@@ -36,9 +36,19 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 300;
     line-height: 2.5rem;
     text-align: justify;
+    margin-bottom: 1rem;
+    @media (max-width: 600px) {
+      font-size: 1.3rem;
+      line-height: 2.2rem;
+    }
     @media (max-width: 450px) {
       font-size: 1.2rem;
       line-height: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    @media (max-width: 330px) {
+      font-size: 1rem;
+      line-height: 1.5rem;
     }
   }
   span {
@@ -51,6 +61,11 @@ const GlobalStyle = createGlobalStyle`
     overflow-x: hidden;
   & > * {
     scroll-snap-align: start;
+  }
+  header {
+    @media (max-width: 600px) {
+      height: 100vh;
+    }
   }
 `
 

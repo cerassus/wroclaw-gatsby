@@ -4,7 +4,8 @@ import * as Common from "../../../styles/common-styles"
 
 const StatPeople = () => (
   <Common.Section>
-    <Common.Container>
+    <Common.Content width="120" centered>
+      <div>
       <SC.Row>
         <SC.Box>
           <div>OF LEGAL AGE...</div>
@@ -35,7 +36,8 @@ const StatPeople = () => (
           <div>... people</div>
         </SC.Box>
       </SC.Row>
-    </Common.Container>
+      </div>
+    </Common.Content>
   </Common.Section>
 )
 

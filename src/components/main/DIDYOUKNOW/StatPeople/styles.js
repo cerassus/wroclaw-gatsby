@@ -1,13 +1,20 @@
 import styled from 'styled-components';
 import * as Common from "../../../styles/common-styles"
 
-export const Row = styled(Common.Flex)`
+export const Row = styled.div`
+    display: flex;
     width: 100%;
     justify-content: space-between;
-    margin: 6rem 0;
-    font-size: 2rem;
+    margin: 6vw 0;
+    font-size: clamp(1.4rem, 1.2000rem + 1.0667vw, 2rem);
     &:nth-of-type(even) {
         flex-direction: row-reverse;
+        @media (max-width: 750px) {
+            flex-direction: column-reverse;
+            & * {
+                width: 95%;
+            }
+        }
         & > *:first-child::before {
             content: "";
             position: absolute;
@@ -20,7 +27,14 @@ export const Row = styled(Common.Flex)`
             clip-path: polygon(0 0, 100% 50%, 0 100%);
         }
     }
-    &:nth-of-type(odd) > *:first-child::before {
+    &:nth-of-type(odd) {
+        @media (max-width: 750px) {
+            flex-direction: column;
+            & > * {
+                width: 95%;
+            }
+        }
+        & > *:first-child::before {
         content: "";
         position: absolute;
         right: 0px;
@@ -50,7 +64,7 @@ export const Box = styled.div`
         font-weight: 700;
     }
     & * {
-        padding: 2rem;
+        padding: 1.5vh;
         letter-spacing: 0.15em;
     }
     `

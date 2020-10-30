@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 export const Scroll = styled.div`
     position: fixed;
-    right: 5vh;
-    bottom: 5vh;
+    right: 5vw;
+    bottom: 5vw;
     width: 5rem;
     height: 5rem;
     z-index: 10;
@@ -23,6 +23,12 @@ export const Scroll = styled.div`
         transform: rotate(55deg);
     }
     ${props => props.visible ? "visibility: visible; opacity: 1" : "visibility: hidden; opacity: 0"};
+    @media (max-width: 600px) {
+        transform: scale(1);
+    }
+    @media (max-width: 400px) {
+        transform: scale(0.8);
+    }
     `
 export const Arrow = styled.div`
     position: absolute;

@@ -1,6 +1,5 @@
 import React from "react"
 import * as SC from "./styles"
-import { Link } from "gatsby"
 
 
 const Scroll = () => {
@@ -8,7 +7,7 @@ const Scroll = () => {
   const [didMount, setDidMount] = React.useState(false)
   const gat = didMount && document.getElementById('gatsby-focus-wrapper')
   didMount && gat.addEventListener('scroll', () => {
-    gat.scrollTop > 600 ? toggleVisibility(true) : toggleVisibility(false);
+    gat.scrollTop > 500 ? toggleVisibility(true) : toggleVisibility(false);
   })
   const getToTop = () => {
     if(didMount) {

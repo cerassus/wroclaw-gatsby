@@ -1,6 +1,6 @@
 import React from "react"
 import * as SC from "./styles"
-import * as Common from "../../../styles/common-styles"
+import * as Common from "../../styles/common-styles"
 
 const StatPeople = () => (
   <Common.Section>

@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import * as Common from "../../../styles/common-styles"
 
 export const Row = styled.div`
     display: flex;

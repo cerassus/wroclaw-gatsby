@@ -94,7 +94,8 @@ export const NavItem = styled.li`
       margin-right: 0;
     }
   }
-  &:hover {
+  &:hover a {
+    display: inline-block;
     transform: translateY(3px);
   }
   & > * {
@@ -103,6 +104,7 @@ export const NavItem = styled.li`
     &:visited {
       text-decoration: none;
       color: #093858;
+      transition: all .2s;
     }
 
   }

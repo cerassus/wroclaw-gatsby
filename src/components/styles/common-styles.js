@@ -1,4 +1,5 @@
 import styled from "styled-components"
+import React from "react"
 
 export const colors = {
   primary: "#093858",
@@ -20,13 +21,14 @@ export const Section = styled.section`
   `
 
 export const Content = styled.div`
-  ${props => (props.width && `width: min(${props.width}rem, 100%)`)};
+  ${props => (props.width && `width: min(${props.width}rem, 95%)`)};
   ${props => props.cell && 
     `& > * {
       display: table-cell;
       vertical-align: middle;
     }`};
   position: relative;
+  ${props => (props.white && `color: white`)};
   margin: ${props => (props.nomargin ? `0` : `0 auto`)};
   padding: ${props => (props.nopadding ? `0` : `4vw`)};
   padding: ${props => (props.padding && props.padding)};
@@ -72,8 +74,15 @@ export const TextTitle = styled.h2`
   ${props => props.thin && "font-weight: 400"};
   ${props => props.wide && "letter-spacing: 0.15em"};
   ${props => props.padding && `padding: ${props.padding}`};
+  ${props => props.shadow && `text-shadow: 0 0 5px ${colors.shadow}`};
   margin-bottom: ${props => props.nomargin ? `0` : `2vh`};
 `
+export const TextBig = styled.div`
+  font-size: clamp(1.2rem, 0.5143rem + 1.3247vw, 2.5rem);
+  text-transform: uppercase;
+  text-shadow: 0 0 5px ${colors.shadow};
+  margin-bottom: 3vw;
+  `
 
 export const BackgroundImg = styled.div`
   background-size: cover;
@@ -128,67 +137,42 @@ export const ContentChart = styled.div`
     }
     `
 
-
-
-
-
-
-
-
-
-
-
-export const FullWidthImg = styled.div`
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 100%;
-`
-export const ContentRow = styled(Content)`
-  width: 100%;
-  margin: 0;
-  padding: 3rem 5rem;
-  & * {
-    width: min(70rem, 100%);
-    margin: 0 auto;
-  }
-  @media (max-width: 1200px) {
-    padding: 3rem;
-  }
-  @media (max-width: 700px) {
-    height: 70vh;
-  }
-`
-
-export const TextContent = styled.div`
-  width: min(100rem, 100%);
-  margin: 0 auto;
-`
-
-export const TextContentRow = styled.div`
-  top: 50vh;
-  left: 50vw;
-  transform: translate(-50vw, -50%);
-  position: relative;
-  @media (max-width: 700px) {
-    top: 30vh;
-  }
-`
-
-export const SectionRow = styled(Section)`
-    display: flex;
-    flex-direction: row;
-    @media (max-width: 700px) {
-        flex-direction: column;
+export const StyledSpinner = styled.div`
+    display: inline-block;
+    position: relative;
+    width: 2.4rem;
+    height: 2.4rem;
+    transform: ${props => props.desktop ? `translateX(${props.desktop})` : `translateX(0%)`};
+    @media (max-width: 600px) {
+      transform: ${props => props.mobile ? `translateX(${props.mobile})` : `translateX(0%)`};
+    }
+    & div {
+        position: absolute;
+        top: 10px;
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background: ${colors.primary};
+        animation-timing-function: cubic-bezier(0, 1, 1, 0);
+      }
+      & div:nth-child(1) {
+        left: 8px;
+        animation: lds-ellipsis1 0.6s infinite;
+      }
+      & div:nth-child(2) {
+        left: 8px;
+        animation: lds-ellipsis2 0.6s infinite;
+      }
+      & div:nth-child(3) {
+        left: 32px;
+        animation: lds-ellipsis2 0.6s infinite;
+      }
+      & div:nth-child(4) {
+        left: 56px;
+        animation: lds-ellipsis3 0.6s infinite;
+      }
     `
 
-export const Container = styled.div`
-  width: min(120rem, 95%);
-  margin: 0 auto;
-`
-export const SectionContainer = styled(Container)`
-  margin: 3rem auto;
-  text-align: center;
-`
-export const FlexC = styled.div`
-  display: flex;`
+export const Spinner = ({desktop, mobile}) => (
+    <StyledSpinner desktop={desktop} mobile={mobile} ><div></div><div></div><div></div><div></div></StyledSpinner>
+)

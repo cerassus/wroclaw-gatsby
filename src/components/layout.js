@@ -1,10 +1,9 @@
 import React from "react"
 import PropTypes from "prop-types"
-// import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header/Header"
 import Footer from "./footer/Footer"
 import { createGlobalStyle } from 'styled-components'
-import Scroll from "../components/ScrollToTop/ScrollToTop"
+import { colors } from "./styles/common-styles"
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -18,11 +17,11 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     font-family: 'Spartan', sans-serif;
-    background-color: #FFF;
+    background-color: ${colors.white};
     width: 100%;
     overflow: hidden;
     font-size: 1.4rem;
-    color: #093858;
+    color: ${colors.primary};
     text-align: center;
   }
   h1 {
@@ -53,50 +52,38 @@ const GlobalStyle = createGlobalStyle`
   & > * {
     scroll-snap-align: start;
   }
+  @keyframes lds-ellipsis1 {
+    0% {
+      transform: scale(0);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @keyframes lds-ellipsis3 {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(0);
+    }
+  }
+  @keyframes lds-ellipsis2 {
+    0% {
+      transform: translate(0, 0);
+    }
+    100% {
+      transform: translate(24px, 0);
+    }
+  }
 `
-// font-size: 1.65vh;
-// line-height: 2.6vh;
-// @media (max-width: 1200px) {
-//   font-size: 1.3vw;
-// }
-// @media (max-width: 400px) {
-//   font-size: 3vw;
-//   line-height: 3.5vw;
-// }
-
-// @media (max-width: 600px) {
-//   font-size: 1.3rem;
-//   line-height: 2.2rem;
-// }
-// @media (max-width: 450px) {
-//   font-size: 1.2rem;
-//   line-height: 2rem;
-//   margin-bottom: 0.5rem;
-// }
-// @media (max-width: 330px) {
-//   font-size: 1rem;
-//   line-height: 1.5rem;
-// }
-// }
-
 
 const Layout = ({ children, title, text_content }) => {
-  // const data = useStaticQuery(graphql`
-  //   query SiteTitleQuery {
-  //     site {
-  //       siteMetadata {
-  //         title
-  //       }
-  //     }
-  //   }
-  // `)
-
   return (
     <>
       <GlobalStyle />
       <Header title={title} text_content={text_content}/>
        {children}
-       <Scroll />
       <Footer />
     </>
   )

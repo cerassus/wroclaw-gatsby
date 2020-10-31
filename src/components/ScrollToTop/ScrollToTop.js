@@ -22,7 +22,7 @@ const Scroll = () => {
   }, [])
 
   return (
-  <SC.Scroll onClick={getToTop} visible={visible}>
+  <SC.Scroll onClick={() => getToTop()} visible={visible}>
     <SC.Arrow></SC.Arrow>
     <SC.Arrow></SC.Arrow>
   </SC.Scroll>

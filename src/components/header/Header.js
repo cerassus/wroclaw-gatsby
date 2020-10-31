@@ -5,6 +5,7 @@ import * as SC from "./styles"
 import * as Common from "../styles/common-styles"
 import Moment from "./Moment"
 import Bluebar from "./Bluebar"
+import Scroll from "../ScrollToTop/ScrollToTop"
 
 const Header = ({ title, text_content }) => (
   <SC.HeaderContent>
@@ -34,6 +35,7 @@ const Header = ({ title, text_content }) => (
     </Common.Content>
     <Moment />
     <Bluebar title={title} text_content={text_content} />
+    <Scroll />
   </SC.HeaderContent>
 )
 

@@ -1,6 +1,6 @@
 import React from "react"
 import styled from 'styled-components';
-import * as Common from "../../../styles/common-styles"
+import * as Common from "../../styles/common-styles"
 
 
 const StatMain = () => (
@@ -24,13 +24,13 @@ const StatMain = () => (
 
 const ContentBar = styled.div`
     width: 150vw;
-    background-color: #093858;
-    color: #FFF;
+    background-color: ${Common.colors.primary}
+    color: ${Common.colors.white};
     transform: translateX(-20%);
     position: relative;
     padding: 3rem;
     margin: 3rem 0;
-    box-shadow: 0 1px 1rem #000;
+    box-shadow: 0 1px 1rem ${Common.colors.shadow};
     position: relative;
     z-index: 2;
     & *:first-child {

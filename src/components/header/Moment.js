@@ -1,15 +1,21 @@
 import React from "react"
 import styled from "styled-components"
+import DateAndTime from "./DateAndTime"
+import Weather from "./Weather"
 
 const Moment = () => (
   <Container>
     <Side>
       <Label>actual weather</Label>
-      <Value>18 degrees</Value>
+      <Value>
+        <Weather />
+      </Value>
     </Side>
     <Side>
       <Label>actual date and time in Wrocław</Label>
-      <Value>20 October 2020</Value>
+      <Value>
+          <DateAndTime />
+      </Value>
     </Side>
   </Container>
 )
@@ -54,8 +60,8 @@ const Label = styled.div`
 const Value = styled.div`
   font-weight: 700;
   font-size: 2.4rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
+  display: inline-block;
 `
-
 
 export default Moment

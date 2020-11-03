@@ -1,12 +1,13 @@
 import React from "react"
 import * as Common from "../../styles/common-styles"
+import PedestrianImg from "../../../images/culture/pedestrian.jpg"
 
 const Pedestrian = () => (
   <Common.Section cell>
     <Common.Flex>
       <Common.BackgroundImg
         width="50%"
-        src="img/culture/pedestrian.jpg"
+        src={PedestrianImg}
         pos="right"
       />
       <Common.Content row="50" blue>

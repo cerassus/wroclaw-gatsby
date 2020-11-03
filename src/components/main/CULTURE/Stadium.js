@@ -1,10 +1,12 @@
 import React from "react"
 import styled from 'styled-components';
 import * as Common from "../../styles/common-styles"
+import StadiumImgIn from "../../../images/culture/stadium_in.jpg"
+import StadiumImgOut from "../../../images/culture/stadium_out.jpg"
 
 const Stadium = () => (
   <Common.Section>
-    <Common.BackgroundImg src="img/culture/stadium_in.jpg">
+    <Common.BackgroundImg src={StadiumImgIn}>
       <Common.Content transparent centered width="100" padding="4vw">
         <Common.TextTitle>City Stadium</Common.TextTitle>
         <p>
@@ -33,7 +35,7 @@ const Stadium = () => (
           fitness club, go-kart track or jumping on Dream Jump lines, and rents
           offices and the all-year working Event Centre for companies.
         </p>
-        <ImgInside src="img/culture/stadium_out.jpg" alt="stadium foto" />
+        <ImgInside src={StadiumImgOut} alt="stadium foto" />
       </Common.Content>
     </Common.BackgroundImg>
   </Common.Section>

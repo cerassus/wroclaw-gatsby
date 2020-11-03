@@ -1,0 +1,6158 @@
+[
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 1843
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 180
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 367
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 1067
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 1794
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 1122
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 367
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 924
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 1186
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 211
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 1704
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 457
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 162
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 851
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 1299
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 350
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 281
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 332
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 1079
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 150
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 1317
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 1998
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 390
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 1242
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 518
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 644
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 474
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 402
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 930
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 768
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 248
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 1121
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 862
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 274
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 758
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 1463
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 829
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 531
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 867
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 175
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 402
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 950
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 1665
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 784
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 1258
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 1692
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 1301
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 1084
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 1153
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 605
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 1496
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 856
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 709
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 608
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 953
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 1185
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 410
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 868
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 1270
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 1972
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 521
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 160
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 725
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 453
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 351
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 1089
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 914
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 289
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 114
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 159
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 575
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 732
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 739
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 973
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 508
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 456
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 226
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 212
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 753
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 725
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 426
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 1108
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 281
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 486
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 538
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 357
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 403
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 870
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 675
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 731
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 297
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 268
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 136
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 253
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 237
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 240
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 655
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 589
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 567
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 322
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 227
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 1051
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 85
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 618
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 195
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 374
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 102,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 110
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 3
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 122
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 55
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 42
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 201
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 105,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 306
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 413
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 1450
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 1888
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 728
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 736
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 660
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 1246
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 1284
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 182
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 939
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 1193
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 286
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 813
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 1073
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 155
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 1619
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 1099
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 649
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 1037
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 1661
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 1176
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 370
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 341
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 273
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 963
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 354
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 964
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 388
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 995
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 1892
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 345
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 427
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 701
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 910
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 751
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 408
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 728
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 793
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 1152
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 440
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 1087
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 314
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 259
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 755
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 1332
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 763
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 1374
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 1154
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 1360
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 172
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 355
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 737
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 389
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 420
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 254
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 1157
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 648
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 638
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 339
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 121
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 694
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 669
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 359
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 985
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 616
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 919
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 632
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 553
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 384
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 311
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 341
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 582
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 122
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 676
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 367
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 1293
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 731
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 721
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 305
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 472
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 353
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 407
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 575
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 417
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 311
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 242
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 331
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 495
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 808
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 1395
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 630
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 539
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 155
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 714
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 564
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 335
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 873
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 627
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 319
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 189
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 442
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 601
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 362
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 784
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 364
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 1250
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 454
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 640
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 655
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 328
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 268
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 423
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 377
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 29
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 603
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 423
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 254
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 206
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 369
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 114
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 17
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 36
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 470
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 12
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 420
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 271
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 283
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 101,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 65
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 137
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 185
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 10
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 6
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 39
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 5
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 101,
+    "NUMBERofRESIDENTS": 4
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 1007
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 1220
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 986
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 627
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 552
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 325
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 1475
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 1827
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 897
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 1117
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 941
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 227
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 482
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 962
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 139
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 1025
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 386
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 310
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 539
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 941
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 1578
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 323
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 1892
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 998
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 1437
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 268
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 368
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 1303
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 492
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 945
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 812
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 355
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 1502
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 336
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 505
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 857
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 1067
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 133
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 673
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 555
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 1981
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 820
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 1348
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 579
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 722
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 616
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 1864
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 1170
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 1309
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 663
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 607
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 834
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 451
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 419
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 892
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 848
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 264
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 285
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 710
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 525
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 41
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 195
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 1391
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 568
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 477
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 473
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 757
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 302
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 1086
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 350
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 367
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 300
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 309
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 883
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 312
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 158
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 690
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 183
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 397
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 725
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 572
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 1733
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 909
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 161
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 321
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 317
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 313
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 542
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 271
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 363
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 731
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 1000
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 706
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 251
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 181
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 427
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 410
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 102
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 597
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 44
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 662
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 115
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 580
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 647
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 202
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 3
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 138
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 229
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 57
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 106
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 38
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 518
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 11
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 104,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 12
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 101,
+    "NUMBERofRESIDENTS": 4
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 3
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 181
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 806
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 323
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 645
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 403
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 812
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 446
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 1879
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 476
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 277
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 1700
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 605
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 934
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 1268
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 357
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 667
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 610
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 528
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 439
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 1246
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 388
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 277
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 109
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 654
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 310
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 1872
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 152
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 137
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 612
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 718
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 872
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 484
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 392
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 563
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 831
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 61
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 1060
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 1476
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 613
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 691
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 1052
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 378
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 579
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 548
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 792
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 577
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 848
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 669
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 617
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 561
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 936
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 833
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 18
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 421
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 880
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 380
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 121
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 861
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 607
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 357
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 547
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 309
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 427
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 73
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 551
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 334
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 101
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 381
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 362
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 348
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 486
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 1263
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 118
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 298
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 646
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 369
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 843
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 293
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 162
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 765
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 349
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 401
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 618
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 174
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 227
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 527
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 257
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 230
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 1231
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 371
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 4
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 316
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 49
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 1507
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 864
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 538
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 66
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 991
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 107
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 117
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 948
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 321
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 306
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 327
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 206
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 64
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 519
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 3
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 48
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 31
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 24
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 10
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 5
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 439
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 1306
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 1111
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 784
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 708
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 643
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 507
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 452
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 69,
+    "NUMBERofRESIDENTS": 754
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 412
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 170
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 950
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 1018
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 1707
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 81
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 1672
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 1431
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 1250
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 813
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 45
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 142
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 320
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 856
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 1686
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 949
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 683
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 671
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 509
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 1053
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 191
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 358
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 1078
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 1002
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 544
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 749
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 696
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 667
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 1543
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 132
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 596
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 315
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 611
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 375
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 887
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 1585
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 676
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 278
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 256
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 729
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 343
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 911
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 865
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 1076
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 273
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 249
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 673
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 710
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 270
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 728
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 128
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 26,
+    "NUMBERofRESIDENTS": 260
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 1753
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 389
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 672
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 335
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 76,
+    "NUMBERofRESIDENTS": 345
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 535
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 1146
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 160
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 657
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 225
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 243
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 522
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 328
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 206
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 736
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 725
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 815
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 811
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 570
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 83,
+    "NUMBERofRESIDENTS": 127
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 861
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 598
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 670
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 376
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 411
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 298
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 415
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 278
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 890
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 221
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 241
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 443
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 566
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 406
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 503
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 551
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 181
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 50
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 88
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 179
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 312
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 130
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 306
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 104
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 24
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 888
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 156
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 157
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 377
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 153
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 27
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 412
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 23
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 8
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 6
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 151
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 7
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 3
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 18
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 48
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 9
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 8
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 18
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 101,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 187
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 264
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 857
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 1012
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 1131
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 1851
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 156
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 858
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 782
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 572
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 431
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 1347
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 380
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 96
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 864
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 304
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 981
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 623
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 131
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 312
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 436
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 191
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 284
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 1880
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 917
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 283
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 1222
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 285
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 948
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 1873
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 1056
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 853
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 355
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 922
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 150
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 589
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 816
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 402
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 303
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 599
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 1200
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 369
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 395
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 518
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 1222
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 200
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 269
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 79
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 741
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 578
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 656
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 813
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 343
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 491
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 1139
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 733
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 1088
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 1120
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 311
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 350
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 607
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 1965
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 692
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 1173
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 595
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 455
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 365
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 1931
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 449
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 694
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 407
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 657
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 624
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 956
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 492
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 748
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 33
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 168
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 1290
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 705
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 1375
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 498
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 507
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 689
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 1091
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 1139
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 74,
+    "NUMBERofRESIDENTS": 661
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 596
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 597
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 499
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 560
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 1257
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 12
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 853
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 182
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 22,
+    "NUMBERofRESIDENTS": 604
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 863
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 945
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 428
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 297
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 712
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 591
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 607
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 841
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 586
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 89
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 933
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 118
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 287
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 172
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 38
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 265
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 256
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 494
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 180
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 414
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 270
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 497
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 463
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 545
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 385
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 838
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 227
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 169
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 316
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 413
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 588
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 1071
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 141
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 105
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 215
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 374
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 145
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 303
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 354
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 166
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 468
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 45
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 431
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 19
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 65
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 11
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 103,
+    "NUMBERofRESIDENTS": 4
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 101,
+    "NUMBERofRESIDENTS": 3
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 102,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 277
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 552
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 245
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 1191
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 546
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 761
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 325
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 1522
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 771
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 274
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 140
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 137
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 933
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 900
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 312
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 967
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 906
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 147
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 313
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 779
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 791
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 318
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 654
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 79
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 54,
+    "NUMBERofRESIDENTS": 916
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 375
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 1092
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 1232
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 719
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 2074
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 1070
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 462
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 1065
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 1270
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 2,
+    "NUMBERofRESIDENTS": 558
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 828
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 174
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 406
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 41,
+    "NUMBERofRESIDENTS": 1751
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 1875
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 917
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 341
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 1545
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 358
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 596
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 816
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 799
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 858
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 1035
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 1084
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 640
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 819
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 1069
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 301
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 384
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 286
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 1347
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 81,
+    "NUMBERofRESIDENTS": 749
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 709
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 833
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 402
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 361
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 568
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 533
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 712
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 970
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 1074
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 555
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 568
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 703
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 949
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 70,
+    "NUMBERofRESIDENTS": 616
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 49,
+    "NUMBERofRESIDENTS": 454
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 42,
+    "NUMBERofRESIDENTS": 789
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 914
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 649
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 525
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 249
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 622
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 1002
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 146
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 175
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 826
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 1193
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 194
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 25,
+    "NUMBERofRESIDENTS": 515
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 947
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 875
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 45,
+    "NUMBERofRESIDENTS": 230
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 193
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 302
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 761
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 17,
+    "NUMBERofRESIDENTS": 361
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 23,
+    "NUMBERofRESIDENTS": 410
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 21,
+    "NUMBERofRESIDENTS": 666
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 730
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 603
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 35,
+    "NUMBERofRESIDENTS": 329
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 770
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 151
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 47,
+    "NUMBERofRESIDENTS": 505
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 89,
+    "NUMBERofRESIDENTS": 140
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 24,
+    "NUMBERofRESIDENTS": 382
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 112
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 171
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 759
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 877
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 352
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 336
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 86
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 375
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 688
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 440
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 165
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 156
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 204
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 268
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 77,
+    "NUMBERofRESIDENTS": 182
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 836
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 361
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 128
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 26
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 350
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 315
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 276
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 165
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 16,
+    "NUMBERofRESIDENTS": 111
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 123
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 5,
+    "NUMBERofRESIDENTS": 166
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 93
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 10
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 43
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 5
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 11
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 92,
+    "NUMBERofRESIDENTS": 52
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 6
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 102,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 101,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 103,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 102,
+    "NUMBERofRESIDENTS": 2
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 104,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 56,
+    "NUMBERofRESIDENTS": 909
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 52,
+    "NUMBERofRESIDENTS": 833
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 242
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 18,
+    "NUMBERofRESIDENTS": 579
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 40,
+    "NUMBERofRESIDENTS": 1659
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 1,
+    "NUMBERofRESIDENTS": 1130
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 68,
+    "NUMBERofRESIDENTS": 1325
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 943
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 44,
+    "NUMBERofRESIDENTS": 1327
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 50,
+    "NUMBERofRESIDENTS": 262
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 1847
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 1431
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 1286
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 832
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 893
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 67,
+    "NUMBERofRESIDENTS": 615
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 20,
+    "NUMBERofRESIDENTS": 410
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 1111
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 58,
+    "NUMBERofRESIDENTS": 637
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 34,
+    "NUMBERofRESIDENTS": 804
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 284
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 55,
+    "NUMBERofRESIDENTS": 388
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 903
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 57,
+    "NUMBERofRESIDENTS": 364
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 2054
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 1459
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 36,
+    "NUMBERofRESIDENTS": 1993
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 43,
+    "NUMBERofRESIDENTS": 651
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 62,
+    "NUMBERofRESIDENTS": 1057
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 541
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 1737
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 82,
+    "NUMBERofRESIDENTS": 293
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 6,
+    "NUMBERofRESIDENTS": 135
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 994
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 968
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 948
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 65,
+    "NUMBERofRESIDENTS": 2109
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 53,
+    "NUMBERofRESIDENTS": 833
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 1852
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 72,
+    "NUMBERofRESIDENTS": 98
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 37,
+    "NUMBERofRESIDENTS": 1579
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 32,
+    "NUMBERofRESIDENTS": 804
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 61,
+    "NUMBERofRESIDENTS": 838
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 682
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 1103
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 48,
+    "NUMBERofRESIDENTS": 294
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 655
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 8,
+    "NUMBERofRESIDENTS": 447
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 38,
+    "NUMBERofRESIDENTS": 1488
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 63,
+    "NUMBERofRESIDENTS": 789
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 912
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 858
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 13,
+    "NUMBERofRESIDENTS": 570
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 30,
+    "NUMBERofRESIDENTS": 711
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 324
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 170
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 3,
+    "NUMBERofRESIDENTS": 371
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 254
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 51,
+    "NUMBERofRESIDENTS": 580
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 0,
+    "NUMBERofRESIDENTS": 608
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 27,
+    "NUMBERofRESIDENTS": 942
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 66,
+    "NUMBERofRESIDENTS": 882
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 28,
+    "NUMBERofRESIDENTS": 222
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 84,
+    "NUMBERofRESIDENTS": 121
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 29,
+    "NUMBERofRESIDENTS": 266
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 73,
+    "NUMBERofRESIDENTS": 343
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 780
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 10,
+    "NUMBERofRESIDENTS": 383
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 143
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 59,
+    "NUMBERofRESIDENTS": 929
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 138
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 7,
+    "NUMBERofRESIDENTS": 169
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 705
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 64,
+    "NUMBERofRESIDENTS": 938
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 15,
+    "NUMBERofRESIDENTS": 361
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 601
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 33,
+    "NUMBERofRESIDENTS": 336
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 79,
+    "NUMBERofRESIDENTS": 171
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 80,
+    "NUMBERofRESIDENTS": 184
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 19,
+    "NUMBERofRESIDENTS": 151
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 12,
+    "NUMBERofRESIDENTS": 779
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 85,
+    "NUMBERofRESIDENTS": 212
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 90,
+    "NUMBERofRESIDENTS": 120
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 39,
+    "NUMBERofRESIDENTS": 1387
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 31,
+    "NUMBERofRESIDENTS": 753
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 46,
+    "NUMBERofRESIDENTS": 242
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 86,
+    "NUMBERofRESIDENTS": 90
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 71,
+    "NUMBERofRESIDENTS": 509
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 9,
+    "NUMBERofRESIDENTS": 388
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 88
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 60,
+    "NUMBERofRESIDENTS": 709
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 78,
+    "NUMBERofRESIDENTS": 801
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 316
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 14,
+    "NUMBERofRESIDENTS": 122
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 11,
+    "NUMBERofRESIDENTS": 403
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 87,
+    "NUMBERofRESIDENTS": 101
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 75,
+    "NUMBERofRESIDENTS": 283
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 125
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 106,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 4,
+    "NUMBERofRESIDENTS": 389
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 110,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 4
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Stare_Miasto",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 17
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 93,
+    "NUMBERofRESIDENTS": 52
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 44
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 91,
+    "NUMBERofRESIDENTS": 30
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Krzyki",
+    "AGE": 105,
+    "NUMBERofRESIDENTS": 1
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 95,
+    "NUMBERofRESIDENTS": 15
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Psie_Pole",
+    "AGE": 88,
+    "NUMBERofRESIDENTS": 47
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 98,
+    "NUMBERofRESIDENTS": 13
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 94,
+    "NUMBERofRESIDENTS": 26
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 7
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 4
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Srodmiescie",
+    "AGE": 96,
+    "NUMBERofRESIDENTS": 11
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 99,
+    "NUMBERofRESIDENTS": 12
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Krzyki",
+    "AGE": 97,
+    "NUMBERofRESIDENTS": 3
+  },
+  {
+    "SEX": "Woman",
+    "DISTRICT": "Fabryczna",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 8
+  },
+  {
+    "SEX": "Man",
+    "DISTRICT": "Fabryczna",
+    "AGE": 100,
+    "NUMBERofRESIDENTS": 2
+  }
+]

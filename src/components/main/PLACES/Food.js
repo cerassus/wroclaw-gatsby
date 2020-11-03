@@ -1,6 +1,10 @@
 import React from "react"
 import styled from 'styled-components';
 import * as Common from "../../styles/common-styles"
+import FoodImg from "../../../images/places/food/food.jpg"
+import OliwaImg from "../../../images/places/food/oliwa.jpg"
+import RaguImg from "../../../images/places/food/ragu.png"
+import WhiskeyImg from "../../../images/places/food/whiskey.png"
 
 const ImageContent = styled.div`
     width: 100%;
@@ -12,7 +16,7 @@ const ImageContent = styled.div`
 const Food = () => (
 <>
   <Common.Section>
-    <Common.BackgroundImg src="img/places/food/food.jpg">
+    <Common.BackgroundImg src={FoodImg}>
     <ImageContent>
         <Common.Content blue width="120">
         <Common.TextTitle>restaurants, pubs and clubs</Common.TextTitle>
@@ -37,9 +41,9 @@ const Food = () => (
     <Common.Content width="100">
       <Common.TextTitle>recommended by author...</Common.TextTitle>
       <Restaurants>
-        <img src="img/places/food/whiskey.png" alt="restaurant img" />
-        <img src="img/places/food/ragu.png" alt="restaurant img"/>
-        <img src="img/places/food/oliwa.jpg" alt="restaurant img"/>
+        <img src={WhiskeyImg} alt="restaurant img" />
+        <img src={RaguImg} alt="restaurant img"/>
+        <img src={OliwaImg} alt="restaurant img"/>
       </Restaurants>
     </Common.Content>
   </section>

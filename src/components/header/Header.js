@@ -5,13 +5,13 @@ import * as SC from "./styles"
 import * as Common from "../styles/common-styles"
 import Moment from "./Moment"
 import Bluebar from "./Bluebar"
-import Scroll from "../ScrollToTop/ScrollToTop"
+import HeaderImgLogo from "../../images/header/logo.png"
 
 const Header = ({ title, text_content }) => (
   <SC.HeaderContent>
     <Common.Content width="120" nunito padding="3vh">
       <SC.HeaderTop>
-        <SC.HeaderImg src="img/header/logo.png" alt="header_img" />
+        <SC.HeaderImg src={HeaderImgLogo} alt="header_img" />
         <SC.HeaderTitle>wrostat</SC.HeaderTitle>
       </SC.HeaderTop>
       <SC.HeaderBottom>
@@ -35,7 +35,6 @@ const Header = ({ title, text_content }) => (
     </Common.Content>
     <Moment />
     <Bluebar title={title} text_content={text_content} />
-    <Scroll />
   </SC.HeaderContent>
 )
 

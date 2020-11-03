@@ -1,9 +1,10 @@
 import React from "react"
 import * as Common from "../../styles/common-styles"
+import CemenImg from "../../../images/didyouknow/cementary.jpg"
 
 const Curiosities = () => (
   <Common.Section>
-    <Common.BackgroundImg gradient src="img/didyouknow/cementary.jpg">
+    <Common.BackgroundImg gradient src={CemenImg}>
       <Common.Content width="120" centered white> 
         <Common.TextTitle shadow padding="6vh" center>Curiosities</Common.TextTitle>
         <Common.TextBig thin uppercase center wide>

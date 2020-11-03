@@ -95,16 +95,18 @@ export const NavItem = styled.li`
     }
   }
   &:hover a {
-    display: inline-block;
-    transform: translateY(3px);
+    letter-spacing: .1em;
+    border-bottom: 2px solid ${Common.colors.primary}!important;
   }
-  & > * {
+  & a {
     &,
     &:link,
     &:visited {
+      display: inline-block;
       text-decoration: none;
-      color: #093858;
-      transition: all .2s;
+      color: ${Common.colors.primary};
+      transition: all .4s;
+      border-bottom: 2px solid ${Common.colors.white};
     }
 
   }

@@ -2,8 +2,10 @@ import React from "react"
 import PropTypes from "prop-types"
 import Header from "./header/Header"
 import Footer from "./footer/Footer"
+import Scroll from "./ScrollToTop/ScrollToTop"
 import { createGlobalStyle } from 'styled-components'
 import { colors } from "./styles/common-styles"
+
 
 const GlobalStyle = createGlobalStyle`
   * {
@@ -82,6 +84,7 @@ const Layout = ({ children, title, text_content }) => {
   return (
     <>
       <GlobalStyle />
+      <Scroll />
       <Header title={title} text_content={text_content}/>
        {children}
       <Footer />

@@ -1,10 +1,11 @@
 import React from "react"
 import * as Common from "../../styles/common-styles"
+import RynekImg from "../../../images/home/rynek.jpg"
 
 const History = () => (
   <Common.Section>
-    <Common.BackgroundImg src='img/home/rynek.jpg'>
-      <Common.Content width="90" transparent centered >
+    <Common.BackgroundImg src={RynekImg} flex="column">
+      <Common.Content width="90" transparent margin="auto auto 5%" >
         <Common.TextTitle>History</Common.TextTitle>
         <p>
           The beginnings of Wrocław are connected with a settlement that

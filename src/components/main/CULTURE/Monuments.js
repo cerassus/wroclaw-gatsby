@@ -1,12 +1,14 @@
 import React from "react"
 import styled from 'styled-components';
 import * as Common from "../../styles/common-styles"
+import MonumentImg from "../../../images/culture/oldtown.jpg"
+import MuseumImg from "../../../images/culture/museum.png"
 
 const Monuments = () => (
   <Common.Section>
     <Common.Content width="120" centered>
       <Container>
-        <Common.BackgroundImg width='50%' height='100%' src="img/culture/oldtown.jpg"/>
+        <Common.BackgroundImg width='50%' height='100%' src={MonumentImg}/>
         <WrapElement>
           <Common.TextTitle>Old Town</Common.TextTitle>
           <p>
@@ -25,7 +27,7 @@ const Monuments = () => (
         </WrapElement>
       </Container>
       <Container>
-        <Common.BackgroundImg width="50%" height='100%' src="img/culture/museum.png"/>
+        <Common.BackgroundImg width="50%" height='100%' src={MuseumImg}/>
         <WrapElement>
           <Common.TextTitle>National Museum</Common.TextTitle>
           <p>

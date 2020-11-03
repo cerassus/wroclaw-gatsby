@@ -1,12 +1,13 @@
 import React from "react"
 import * as Common from "../../styles/common-styles"
+import DisImg from "../../../images/places/denominations.jpg"
 
 const Districts = () => (
   <Common.Section cell>
     <Common.Flex>
       <Common.BackgroundImg
         width="40%"
-        src="img/places/denominations.jpg"
+        src={DisImg}
       />
       <Common.Content row="60">
         <Common.Content nopadding centered>

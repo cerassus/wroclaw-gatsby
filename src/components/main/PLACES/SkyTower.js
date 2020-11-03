@@ -1,10 +1,12 @@
 import React from "react"
 import * as Common from "../../styles/common-styles"
+import SkyTowerImg from "../../../images/places/skytower.jpg" 
+
 
 const SkyTower = () => (
   <Common.Section cell>
     <Common.Flex reverse>
-      <Common.BackgroundImg width="50%" src="img/places/skytower.jpg" />
+      <Common.BackgroundImg width="50%" src={SkyTowerImg}/>
       <Common.Content row="50" blue>
         <Common.Content nopadding centered>
           <Common.TextTitle>Sky Tower Viewpoint</Common.TextTitle>

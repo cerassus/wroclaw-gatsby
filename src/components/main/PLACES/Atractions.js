@@ -1,12 +1,15 @@
 import React from "react"
 import styled from 'styled-components';
 import * as Common from "../../styles/common-styles"
+import PanoramaImg from "../../../images/places/panorama.jpg"
+import ZooImg from "../../../images/places/zoo.jpg"
+import HalaImg from "../../../images/places/hala.jpg"
 
 const Places = () => (
   <>
     <Common.Section>
       <Common.Content nopadding>
-        <Common.BackgroundImg height="45vh" src="img/places/panorama.jpg" />
+        <Common.BackgroundImg height="45vh" src={PanoramaImg} />
         <Desc>
           <Common.TextTitle>racławice panorama</Common.TextTitle>
           <Text>
@@ -25,7 +28,7 @@ const Places = () => (
 
     <Common.Section>
       <Common.Content nopadding>
-      <Common.BackgroundImg pos="right" height="45vh" src="img/places/zoo.jpg" />
+      <Common.BackgroundImg pos="right" height="45vh" src={ZooImg} />
         <Desc right>
           <Common.TextTitle>zoological garden</Common.TextTitle>
           <Text>
@@ -48,7 +51,7 @@ const Places = () => (
 
     <Common.Section>
       <Common.Content nopadding>
-      <Common.BackgroundImg height="45vh" src="img/places/hala.jpg" />
+      <Common.BackgroundImg height="45vh" src={HalaImg} />
         <Desc>
           <Common.TextTitle>centennial hall</Common.TextTitle>
           <Text>

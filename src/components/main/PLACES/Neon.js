@@ -1,10 +1,11 @@
 import React from "react"
 import * as Common from "../../styles/common-styles"
+import NeonImg from "../../../images/places/neon.jpg"
 
 const Neon = () => (
   <Common.Section cell>
     <Common.Flex reverse>
-      <Common.BackgroundImg width="60%" src="img/places/neon.jpg" />
+      <Common.BackgroundImg width="60%" src={NeonImg} />
       <Common.Content row="40" blue>
         <Common.Content nopadding centered>
           <Common.TextTitle>Neon Side Gallery</Common.TextTitle>

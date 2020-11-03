@@ -1,6 +1,7 @@
 import React from "react"
 import styled from 'styled-components';
 import * as Common from "../../styles/common-styles"
+import SlodowaImg from "../../../images/places/slodowa.jpg" 
 
 const Content = styled(Common.Content)`
   position: absolute;
@@ -16,7 +17,7 @@ const Content = styled(Common.Content)`
 
 const Island = () => (
   <Common.Section>
-    <Common.BackgroundImg src="img/places/slodowa.jpg" pos="left" absoluteSibling/>
+    <Common.BackgroundImg src={SlodowaImg} pos="left" absoluteSibling/>
     <Content transparent width="60">
       <Common.Content nopadding>
           <Common.TextTitle>Słodowa Island</Common.TextTitle>

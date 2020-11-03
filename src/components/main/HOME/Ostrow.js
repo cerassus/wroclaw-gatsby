@@ -1,23 +1,18 @@
 import React from "react"
 import styled from "styled-components"
 import * as Common from "../../styles/common-styles"
+import OstrowImg from "../../../images/home/cathedral.jpg"
 
 const Content = styled(Common.Content)`
-  position: absolute;
-  top: 0;
-  right: 0;
-  height: 100vh;
-  margin: 0 3vw 0 auto;
-  @media (max-width: 600px) {
-    height: auto;
-    margin: 0;
+  @media (max-width: 1150px) {
+    margin: auto auto 5%;
   }
 `
 
 const Ostrów = () => (
   <Common.Section>
-    <Common.BackgroundImg src="img/home/cathedral.jpg" absoluteSibling/>
-    <Content transparent width="60">
+    <Common.BackgroundImg src={OstrowImg} flex="row">
+    <Content transparent width="60" margin="0 3vw 0 auto">
       <Common.Content nopadding>
         <Common.TextTitle>Ostrów Tumski</Common.TextTitle>
         <p>
@@ -41,6 +36,7 @@ const Ostrów = () => (
         </p>
       </Common.Content>
     </Content>
+    </Common.BackgroundImg>
   </Common.Section>
 )
 

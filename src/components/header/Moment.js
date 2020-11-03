@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
-import DateAndTime from "./DateAndTime"
-import Weather from "./Weather"
+import DateAndTime from "./DateAndTimeContainer"
+import Weather from "./WeatherContainer"
 
 const Moment = () => (
   <Container>
@@ -14,7 +14,7 @@ const Moment = () => (
     <Side>
       <Label>actual date and time in Wrocław</Label>
       <Value>
-          <DateAndTime />
+          <DateAndTime/>
       </Value>
     </Side>
   </Container>

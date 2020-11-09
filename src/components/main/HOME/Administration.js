@@ -8,28 +8,30 @@ import StareMiastoImg from "../../../images/home/staremiasto.png"
 import PsiepoleImg from "../../../images/home/psiepole.png"
 import KrzykiImg from "../../../images/home/krzyki.png"
 
-const Administration = () => (
+const Administration = () => {
+  const [hoveredBorough, setHoveredBorough] = React.useState(false);
+  return (
     <Common.Section flex="column">
       <Map>
         <MapContainer>
-          <PsiePoleSibling></PsiePoleSibling>
+          <PsiePoleSibling onMouseEnter={() => setHoveredBorough(" - Psie Pole")} onMouseLeave={() => setHoveredBorough("")}></PsiePoleSibling>
           <PsiePole>
-            <FabrycznaSibling></FabrycznaSibling>
+            <FabrycznaSibling onMouseEnter={() => setHoveredBorough(" - Fabryczna")} onMouseLeave={() => setHoveredBorough("")}></FabrycznaSibling>
             <Fabryczna>
-              <SrodmiescieSibling></SrodmiescieSibling>
+              <SrodmiescieSibling onMouseEnter={() => setHoveredBorough(" - Śródmieście")} onMouseLeave={() => setHoveredBorough("")}></SrodmiescieSibling>
               <Srodmiescie>
-                <StareMiastoSibling></StareMiastoSibling>
+                <StareMiastoSibling onMouseEnter={() => setHoveredBorough(" - Stare Miasto")} onMouseLeave={() => setHoveredBorough("")}></StareMiastoSibling>
                 <StareMiasto>
-                  <KrzykiSibling></KrzykiSibling>
+                  <KrzykiSibling onMouseEnter={() => setHoveredBorough(" - Krzyki")} onMouseLeave={() => setHoveredBorough("")}></KrzykiSibling>
                   <Krzyki></Krzyki>
                 </StareMiasto>
               </Srodmiescie>
-            </Fabryczna>
+            </Fabryczna>sssssssssssss
           </PsiePole>
         </MapContainer>
       </Map>
       <Common.Content width="100" margin="auto auto 20%">
-        <Common.TextTitle>Boroughs</Common.TextTitle>
+        <Common.TextTitle>Boroughs {hoveredBorough}</Common.TextTitle>
         <p>
           Wrocław is subdivided into five main boroughs: <span>Fabryczna</span>
           (‘Factory Quarter’), <span>Krzyki</span> (‘Wranglers’),
@@ -49,6 +51,7 @@ const Administration = () => (
       </Common.Content>
     </Common.Section>
   )
+}
 
   const Map = styled.div`
   transition: all 0.2s;

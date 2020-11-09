@@ -20,7 +20,7 @@ const StatMain = ({ stat }) => {
       <Common.Content width="120" centered>
         <Common.Content width="90" shadow nomargin padding="2vw">
           <Common.TextTitle center uppercase thin wide padding="2vh 0">
-            At the end of 2019 in wrocław lives...
+            At the end of 2017 in wrocław lives...
           </Common.TextTitle>
           <ContentBar>
             <Common.TextTitle nomargin wide bold>

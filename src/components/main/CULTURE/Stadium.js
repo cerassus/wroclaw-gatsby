@@ -48,6 +48,10 @@ const ImgInside = styled.img`
     height: 24vh;
     object-fit: cover;
     object-position: 0 60%;
+    filter: drop-shadow(0 0 5px ${Common.colors.shadow});
+    @media (max-width: 360px) {
+      margin: 0;
+    }
     `
 
 export default Stadium

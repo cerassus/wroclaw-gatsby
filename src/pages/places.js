@@ -9,16 +9,15 @@ import Island from "../components/main/PLACES/Island"
 import Districts from "../components/main/PLACES/Districts"
 
 const Places = () => (
-  <Layout text_content="city of meetings ..." title="places">
-    <SEO title="Places" />
-    <Atractions/>
-    <Neon />
-    <Island />
-    <SkyTower />
-    <Districts />
-    <Food />
-
-  </Layout>
-)
+    <Layout text_content="city of meetings ..." title="places">
+      <SEO title="Places" />
+      <Atractions />
+      <Neon />
+      <Island />
+      <SkyTower />
+      <Districts />
+      <Food />
+    </Layout>
+  )
 
 export default Places

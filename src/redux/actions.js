@@ -32,7 +32,6 @@ function fetchWeather() {
     try {
       const shot = await fetch("http://api.openweathermap.org/data/2.5/weather?q=Wroclaw&appid=074a49e2ca39f7ea0ec283efbda4aedf")
       const response = await shot.json()
-      console.log(response)
       dispatch(setWeather(response.main.temp, response.weather[0].main))
     } catch (error) {
       console.error(error)

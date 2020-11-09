@@ -10,7 +10,7 @@ export const Footer = styled.footer`
   background-color: ${Common.colors.primary};
   color: ${Common.colors.white};
   & > * {
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
 
     & > *:nth-child(1) {
@@ -24,6 +24,14 @@ export const Footer = styled.footer`
       padding: 0.5rem;
       border-radius: 4px;
     }
+  }
+  & a:link, a:visited {
+    text-decoration: none;
+    color: ${Common.colors.primary};
+    font-weight: 800;
+  }
+  & a:hover, a:active {
+    text-decoration: underline;
   }
 `
 

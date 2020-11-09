@@ -5,9 +5,10 @@ import * as Common from "../styles/common-styles"
 export const HeaderContent = styled.header`
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-evenly;
   @media (max-width: 600px) {
     height: 100vh;
+    padding-bottom: 10%;
   }
   `
 export const HeaderTop = styled.div`

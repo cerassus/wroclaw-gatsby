@@ -24,9 +24,7 @@ const StatPeople = ({ stat, decade }) => {
   const newborn = stat
     .map(x => x.AGE === 0 && x.NUMBERofRESIDENTS)
     .reduce((x, y) => x + y)
-  const people2019 = decade[0][2019].map(x => Number(x.count)).reduce((x,y) => x + y)
-  const people2018 = decade
-  const dead = 6892
+  const dead = 6892  // based on gus data
   return (
     <Common.Section>
       <Common.Content width="120" centered>

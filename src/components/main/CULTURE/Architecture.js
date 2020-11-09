@@ -28,7 +28,7 @@ const cards = [
 ]
 const Card = styled.div`
   width: 33%;
-  padding: 3vw;
+  padding: 2vw;
   display: table-cell;
   vertical-align: top;
   @media (max-width: 650px) {

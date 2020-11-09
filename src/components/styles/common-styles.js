@@ -37,10 +37,8 @@ export const Content = styled.div`
     }`};
   position: relative;
   ${props => props.white && `color: white`};
-  margin: ${props =>
-    props.nomargin ? `0` : props.margin ? props.margin : `0 auto`};
-  padding: ${props => (props.nopadding ? `0` : `4vw`)};
-  padding: ${props => props.padding && props.padding};
+  margin: ${props => props.nomargin ? `0` : props.margin ? props.margin : `0 auto`};
+  padding: ${props => (props.nopadding ? `0` : props.padding ? props.padding : `4vw`)};
   ${props => props.shadow && `box-shadow: 0 0 5px ${colors.shadow}`};
   ${props =>
     props.transparent &&
@@ -96,6 +94,7 @@ export const TextBig = styled.div`
   text-transform: uppercase;
   text-shadow: 0 0 5px ${colors.shadow};
   margin-bottom: 3vw;
+  ${props => props.bold && "font-weight: 600"};
 `
 
 export const BackgroundImg = styled.div`

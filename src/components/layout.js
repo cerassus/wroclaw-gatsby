@@ -47,7 +47,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 500;
   }
   body > * > * {
-    -webkit-overflow-scrolling: touch;
+    -webkit-scroll-snap-type: y mandatory;
     scroll-snap-type: y mandatory;
     height: 100vh;
     overflow-x: hidden;
@@ -76,6 +76,20 @@ const GlobalStyle = createGlobalStyle`
     }
     100% {
       transform: translate(24px, 0);
+    }
+  }
+  @keyframes restaurant-hover {
+    0% {
+      top: 0;
+      opacity: 0;
+      visibility: hidden;
+    }
+    50% {
+      visibility: visible;
+    }
+    100% {
+      opacity: 1;
+      top: 3rem;
     }
   }
 `

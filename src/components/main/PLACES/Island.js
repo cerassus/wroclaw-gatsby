@@ -12,6 +12,7 @@ const Content = styled(Common.Content)`
   @media (max-width: 600px) {
     height: auto;
     margin: 0;
+    width: 100%;
   }
 `
 

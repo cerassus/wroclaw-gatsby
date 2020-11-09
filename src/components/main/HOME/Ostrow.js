@@ -5,7 +5,7 @@ import OstrowImg from "../../../images/home/cathedral.jpg"
 
 const Content = styled(Common.Content)`
   @media (max-width: 1150px) {
-    margin: auto auto 5%;
+    margin: auto auto 20%;
   }
 `
 

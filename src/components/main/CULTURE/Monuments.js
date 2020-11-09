@@ -6,7 +6,7 @@ import MuseumImg from "../../../images/culture/museum.png"
 
 const Monuments = () => (
   <Common.Section>
-    <Common.Content width="120" centered>
+    <Common.Content width="120" centered padding="2vw">
       <Container>
         <Common.BackgroundImg width='50%' height='100%' src={MonumentImg}/>
         <WrapElement>
@@ -63,7 +63,7 @@ const Container = styled.div`
     }
     @media (max-width: 600px) {
         flex-direction: column!important;
-        height: 50vh;
+        height: 48vh;
         * {
             width: 100%!important;
         }
@@ -72,7 +72,7 @@ const Container = styled.div`
 
 const WrapElement = styled.div`
     width: 50%;
-    padding: 3vw;
+    padding: 2vw;
     `
 
   

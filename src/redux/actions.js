@@ -30,7 +30,7 @@ function fetchMoment() {
 function fetchWeather() {
   return async function (dispatch) {
     try {
-      const shot = await fetch("http://api.openweathermap.org/data/2.5/weather?q=Wroclaw&appid=074a49e2ca39f7ea0ec283efbda4aedf")
+      const shot = await fetch("https://api.openweathermap.org/data/2.5/weather?q=Wroclaw&appid=074a49e2ca39f7ea0ec283efbda4aedf")
       const response = await shot.json()
       dispatch(setWeather(response.main.temp, response.weather[0].main))
     } catch (error) {

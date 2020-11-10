@@ -141,22 +141,6 @@ export const Flex = styled.div`
   }
 `
 
-export const ContentChart = styled.div`
-  position: absolute;
-  top: 19vh;
-  right: 0%;
-  width: 45rem;
-  height: 30rem;
-  background-color: ${colors.primary};
-  z-index: 0;
-  box-shadow: 0 0 5px ${colors.shadow};
-  @media (max-width: 500px) {
-    width: 100%;
-    height: 0;
-    padding-bottom: 66%;
-  }
-`
-
 export const StyledSpinner = styled.div`
   display: inline-block;
   position: relative;
@@ -203,3 +187,71 @@ export const Spinner = ({ desktop, mobile }) => (
     <div></div>
   </StyledSpinner>
 )
+
+export const Row = styled.div`
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 6vw 0;
+    font-size: clamp(1.4rem, 1.2000rem + 1.0667vw, 2rem);
+    &:nth-of-type(even) {
+        flex-direction: row-reverse;
+        @media (max-width: 750px) {
+            flex-direction: column-reverse;
+            & * {
+                width: 95%;
+            }
+        }
+        & > *:first-child::before {
+            content: "";
+            position: absolute;
+            left: -10%;
+            top: 50%;
+            width: 5%;
+            height: 50%;
+            background-color: ${colors.primary};
+            transform: translate(100%, -50%) rotate(180deg);
+            clip-path: polygon(0 0, 100% 50%, 0 100%);
+        }
+    }
+    &:nth-of-type(odd) {
+        @media (max-width: 750px) {
+            flex-direction: column;
+            & > * {
+                width: 95%;
+            }
+        }
+        & > *:first-child::before {
+        content: "";
+        position: absolute;
+        right: 0px;
+        top: 50%;
+        width: 5%;
+        height: 50%;
+        background-color: ${colors.primary};
+        transform: translate(100%, -50%);
+        box-sizing: border-box;
+        background-clip: content-box;
+        clip-path: polygon(0 0, 100% 50%, 0 100%);
+    }
+    `
+
+export const Box = styled.div`
+    width: 45%;
+    background-color: ${colors.primary};
+    color: ${colors.white};
+    border-radius: 3px;
+    border: 2px solid ${colors.primary};
+    position: relative;
+    &:nth-child(2) {
+        background-color: ${colors.white};
+        color: ${colors.primary};
+    }
+    & *:nth-child(2) {
+        font-weight: 700;
+    }
+    & * {
+        padding: 1.5vh;
+        letter-spacing: 0.15em;
+    }
+    `

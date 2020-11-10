@@ -12,8 +12,8 @@ const DidYouKnow = () => {
   return (
   <Layout text_content="city in numbers ..." title="did you know">
     <SEO title="Did You Know" />
-    <StatMain stat={year} />
-    <StatPeople stat={year} decade={decade} />
+    <StatMain stat={year} decade={decade} />
+    <StatPeople stat={year} />
     <StatRegion stat={year} decade={decade} />
     <Curiosities />
   </Layout>

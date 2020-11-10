@@ -1,8 +1,7 @@
 import React from "react"
-import * as SC from "./styles"
 import * as Common from "../../styles/common-styles"
 
-const StatPeople = ({ stat, decade }) => {
+const StatPeople = ({ stat }) => {
   const legal = stat
     .map(x => x.AGE > 17 && x.NUMBERofRESIDENTS)
     .reduce((x, y) => x + y)
@@ -29,36 +28,36 @@ const StatPeople = ({ stat, decade }) => {
     <Common.Section>
       <Common.Content width="120" centered>
         <div>
-          <SC.Row>
-            <SC.Box>
+          <Common.Row>
+            <Common.Box>
               <div>OF LEGAL AGE...</div>
               <div>{legal.toLocaleString()} people</div>
-            </SC.Box>
-            <SC.Box>
+            </Common.Box>
+            <Common.Box>
               <div>and IN PRODUCTIVE STATE...</div>
               <div>{productive.toLocaleString()} people</div>
-            </SC.Box>
-          </SC.Row>
-          <SC.Row>
-            <SC.Box>
+            </Common.Box>
+          </Common.Row>
+          <Common.Row>
+            <Common.Box>
               <div>ARE RETIRED...</div>
               <div>{retired.toLocaleString()} people</div>
-            </SC.Box>
-            <SC.Box>
+            </Common.Box>
+            <Common.Box>
               <div>and OVER 100 YEARS OLD...</div>
               <div>{hundred.toLocaleString()} people</div>
-            </SC.Box>
-          </SC.Row>
-          <SC.Row>
-            <SC.Box>
+            </Common.Box>
+          </Common.Row>
+          <Common.Row>
+            <Common.Box>
               <div>NEWBORN...</div>
               <div>{newborn.toLocaleString()} people</div>
-            </SC.Box>
-            <SC.Box>
+            </Common.Box>
+            <Common.Box>
               <div>and DIED...</div>
               <div>{dead.toLocaleString()} people</div>
-            </SC.Box>
-          </SC.Row>
+            </Common.Box>
+          </Common.Row>
         </div>
       </Common.Content>
     </Common.Section>
